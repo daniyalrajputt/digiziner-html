@@ -292,7 +292,7 @@ button.openmodal.myBtn {
   background-size: 1600% 1600%;
   transition: all cubic-bezier(0.74, 0.63, 0.19, 0.35) 0.4s;
   transition-duration: 0.5s;
-  border: 0px !important;
+  border: 1px solid transparent !important;
 }
 button.openmodal.myBtn:hover {
   background: transparent !important;
@@ -2494,6 +2494,7 @@ form#contact-form input.btn.btn-success.btn-send.disabled {
 .footer .footer-top .footer-info .logo img {
   max-height: 100px;
   margin-right: 6px;
+  filter: brightness(0) invert(01);
 }
 
 .footer .footer-top .footer-info .logo span {
@@ -2507,6 +2508,7 @@ form#contact-form input.btn.btn-success.btn-send.disabled {
 
 .footer .footer-top .footer-info p {
   font-size: 14px;
+  color: var(--white);
   line-height: 24px;
   margin-bottom: 0;
   font-family: "Nunito", sans-serif;
@@ -2516,6 +2518,7 @@ form#contact-form input.btn.btn-success.btn-send.disabled {
   font-size: 20px;
   display: inline-block;
   color: rgba(1, 41, 112, 0.5);
+  color: var(--white);
   line-height: 0;
   margin-right: 10px;
   transition: 0.3s;
@@ -2528,7 +2531,7 @@ form#contact-form input.btn.btn-success.btn-send.disabled {
 .footer .footer-top h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #012970;
+  color: var(--white);
   text-transform: uppercase;
   position: relative;
   padding-bottom: 12px;
@@ -2562,7 +2565,7 @@ form#contact-form input.btn.btn-success.btn-send.disabled {
 }
 
 .footer .footer-top .footer-links ul a {
-  color: #013289;
+  color: var(--white);
   transition: 0.3s;
   display: inline-block;
   line-height: 1;
@@ -2574,6 +2577,7 @@ form#contact-form input.btn.btn-success.btn-send.disabled {
 
 .footer .footer-top .footer-contact p {
   line-height: 26px;
+  color: var(--white);
 }
 
 .footer .copyright {
