@@ -7,7 +7,8 @@
   --dark-color: #101010;
   --white: #ffffff;
   --black: #000000;
-  --theme-blue: #4154f1;
+  --theme-blue: #054257;
+  --icon-white: brightness(0) invert(1);
 }
 
 body {
@@ -54,7 +55,7 @@ section {
   letter-spacing: 1px;
   font-weight: 700;
   margin: 0;
-  color: var(--theme-blue);
+  color: var(--white);
   text-transform: uppercase;
 }
 
@@ -64,7 +65,7 @@ section {
   font-size: 38px;
   line-height: 42px;
   font-weight: 700;
-  color: #012970;
+  color: var(--white);
 }
 
 @media (max-width: 768px) {
@@ -193,13 +194,14 @@ header#header {
 }
 
 .header.header-scrolled {
-  background: var(--dark-color) !important;
+  background: var(--theme-blue) !important;
   padding: 15px 0;
   box-shadow: 0px 2px 20px rgba(1, 41, 112, 0.1);
 }
 
 .header .logo {
   line-height: 0;
+  filter: var(--icon-white);
 }
 
 .header .logo img {
@@ -247,7 +249,7 @@ header#header {
   font-family: "Nunito", sans-serif;
   font-size: 16px;
   font-weight: 700;
-  color: #074256;
+  color: var(--white);
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -263,7 +265,7 @@ header#header {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover > a {
-  color: #074256;
+  color: var(--white);
 }
 button.openmodal.myBtn {
   padding: 8px 50px;
@@ -585,11 +587,11 @@ section#hero img.img-fluid {
   margin: 0;
   font-size: 48px;
   font-weight: 700;
-  color: #074256;
+  color: var(--white);
 }
 
 .hero h2 {
-  color: #444444;
+  color: var(--white);
   margin: 15px 0 0 0;
   font-size: 26px;
 }
@@ -944,6 +946,7 @@ section#hero img.img-fluid {
   display: inline-block;
   line-height: 0;
   transition: 0.3s;
+  filter: var(--icon-white);
 }
 
 .services .service-box h3 {
@@ -2583,7 +2586,7 @@ form#contact-form input.btn.btn-success.btn-send.disabled {
 .footer .copyright {
   text-align: center;
   padding-top: 30px;
-  color: #012970;
+  color: var(--white);
 }
 
 .footer .credits {
@@ -6651,7 +6654,7 @@ button.openmodal2.myBtn {
   position: absolute;
   transform: translate(-50%, -50%);
   text-transform: uppercase;
-  color: #1670f0;
+  color: var(--white);
   padding: 30px 40px;
   font-size: 30px;
   letter-spacing: 2px;

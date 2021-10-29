@@ -528,7 +528,7 @@
                 </div>
 
                 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
-                    <div class="service-box orange">
+                    <div class="service-box blue">
                         <img class="media-img" src="assets\img\mobile-application.png"></img>
                         <h3>Mobile Application Development</h3>
                         <p>Mobile App Development starts to kick off with an idea. We support the idea with our strategy, design, and development experts.</p>
@@ -537,7 +537,7 @@
                 </div>
 
                 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
-                    <div class="service-box green">
+                    <div class="service-box blue">
                         <!-- <i class="bi bi-megaphone"></i> -->
                         <img class="media-img" src="assets\img\bullhorn.png"></img>
                         <h3>Social Media Marketing</h3>
@@ -547,7 +547,7 @@
                 </div>
 
                 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
-                    <div class="service-box red">
+                    <div class="service-box blue">
                         <img class="media-img" src="assets\img\video.png"></img>
                         <h3>Video Animation</h3>
                         <p>Animation plays a subsequent role in keeping your visitors interested and holding their attention for a long. We have 3D animation experts to launch or brand your business globally. </p>
@@ -556,7 +556,7 @@
                 </div>
 
                 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
-                    <div class="service-box purple">
+                    <div class="service-box blue">
                         <img class="media-img" src="assets\img\graphic.png"></img>
                         <h3>Graphic Designing</h3>
                         <p>Graphic designing is an impression creator that says it all! The impression created through visuals and designing accompanied with the right type of logo is a professional deal.</p>
@@ -565,7 +565,7 @@
                 </div>
 
                 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="700">
-                    <div class="service-box pink">
+                    <div class="service-box blue">
                         <img class="media-img" src="assets\img\seo.png"></img>
                         <h3>Inbound Marketing or SEO</h3>
                         <p>Inbound marketing is a much desired and most awaited revolutionary marketing practice eliminating distances between consumers and sources.</p>
