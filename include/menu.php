@@ -30,24 +30,24 @@
     </div>
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
-        <a href="index.html" class="logo d-flex align-items-center">
+        <a href="index.php" class="logo d-flex align-items-center">
             <img src="assets\img\DIGIZINER LOGO.png" alt="">
             <span></span>
         </a>
 
         <nav id="navbar" class="navbar">
             <ul>
-                <li><a class="nav-link scrollto active" href="index.html">Home</a></li>
-                <li><a class="nav-link scrollto" href="about-us.html">About</a></li>
-                <li class="dropdown"><a href="services.html"><span>Services</span><i class="bi bi-chevron-down"></i> </a>
+                <li><a class="nav-link scrollto active" href="index.php">Home</a></li>
+                <li><a class="nav-link scrollto" href="about-us.php">About</a></li>
+                <li class="dropdown"><a href="services.php"><span>Services</span><i class="bi bi-chevron-down"></i> </a>
                     <ul>
-                        <li><a href="website-development.html">Website Development</a></li>
-                        <li><a href="mobile-app-development.html">Mobile App Development</a></li>
-                        <li><a href="graphic-designing.html">Graphic Designing</a></li>
-                        <li><a href="social-media-marketing.html">Social Media Marketing</a></li>
-                        <li><a href="ecommerce-website.html">Ecommerce Website</a></li>
-                        <li><a href="animation.html">Animation</a></li>
-                        <li><a href="inbound-marketing-or-seo.html">Inbound Marketing Or SEO</a></li>
+                        <li><a href="website-development.php">Website Development</a></li>
+                        <li><a href="mobile-app-development.php">Mobile App Development</a></li>
+                        <li><a href="graphic-designing.php">Graphic Designing</a></li>
+                        <li><a href="social-media-marketing.php">Social Media Marketing</a></li>
+                        <li><a href="ecommerce-website.php">Ecommerce Website</a></li>
+                        <li><a href="animation.php">Animation</a></li>
+                        <li><a href="inbound-marketing-or-seo.php">Inbound Marketing Or SEO</a></li>
                     </ul>
                     <!-- </li>
               <li><a href="#">Drop Down 2</a></li>
@@ -55,11 +55,11 @@
               <li><a href="#">Drop Down 4</a></li>
             </ul> -->
                 </li>
-                <li><a class="nav-link scrollto" href="portfolio.html">Portfolio</a></li>
+                <li><a class="nav-link scrollto" href="portfolio.php">Portfolio</a></li>
                 <!-- <li><a class="nav-link scrollto" href="#team">Team</a></li> -->
-                <!-- <li><a href="blog.html">Blog</a></li> -->
+                <!-- <li><a href="blog.php">Blog</a></li> -->
 
-                <li><a class="nav-link scrollto" href="contact.html">Contact</a></li>
+                <li><a class="nav-link scrollto" href="contact.php">Contact</a></li>
                 <!-- <li><a class="getstarted scrollto">Request a Quote</a></li> -->
                 <li><button class="openmodal myBtn">Request a Quote</button></li>
             </ul>

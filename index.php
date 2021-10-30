@@ -488,7 +488,7 @@
 
                         </p>
                         <div class="text-center text-lg-start">
-                            <a href="about-us.html" class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
+                            <a href="about-us.php" class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
                                 <span>Read More</span>
                                 <i class="bi bi-arrow-right"></i>
                             </a>
@@ -523,7 +523,7 @@
                         <i class="bi bi-globe"></i>
                         <h3>Website Development</h3>
                         <p>Digiziner is a fast, result-oriented, and standard Web Development service for B2B purposes. The presence and interactions add value to your brand or service so, we create websites for corporate and competitive businesses through our website development model. </p>
-                        <a href="website-development.html" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
+                        <a href="website-development.php" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
 
@@ -532,7 +532,7 @@
                         <img class="media-img" src="assets\img\mobile-application.png"></img>
                         <h3>Mobile Application Development</h3>
                         <p>Mobile App Development starts to kick off with an idea. We support the idea with our strategy, design, and development experts.</p>
-                        <a href="mobile-app-development.html" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
+                        <a href="mobile-app-development.php" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
 
@@ -542,7 +542,7 @@
                         <img class="media-img" src="assets\img\bullhorn.png"></img>
                         <h3>Social Media Marketing</h3>
                         <p>Digiziner is a Social Media marketing agency you are looking for. We design digital media strategies for multi-channel campaigns.</p>
-                        <a href="social-media-marketing.html" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
+                        <a href="social-media-marketing.php" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
 
@@ -551,7 +551,7 @@
                         <img class="media-img" src="assets\img\video.png"></img>
                         <h3>Video Animation</h3>
                         <p>Animation plays a subsequent role in keeping your visitors interested and holding their attention for a long. We have 3D animation experts to launch or brand your business globally. </p>
-                        <a href="animation.html" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
+                        <a href="animation.php" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
 
@@ -560,7 +560,7 @@
                         <img class="media-img" src="assets\img\graphic.png"></img>
                         <h3>Graphic Designing</h3>
                         <p>Graphic designing is an impression creator that says it all! The impression created through visuals and designing accompanied with the right type of logo is a professional deal.</p>
-                        <a href="graphic-designing.html" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
+                        <a href="graphic-designing.php" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
 
@@ -569,7 +569,7 @@
                         <img class="media-img" src="assets\img\seo.png"></img>
                         <h3>Inbound Marketing or SEO</h3>
                         <p>Inbound marketing is a much desired and most awaited revolutionary marketing practice eliminating distances between consumers and sources.</p>
-                        <a href="inbound-marketing-or-seo.html" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
+                        <a href="inbound-marketing-or-seo.php" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
 
@@ -660,11 +660,11 @@
                                         <noscript><img width="240" height="70" src="portfolio-images\hls-logo.png" alt="skim"></noscript><img class=" ls-is-cached lazyloaded" width="240" height="70" src="portfolio-images\hls-logo.png" data-src="portfolio-images\hls-logo.png" alt="skin">
                                     </div>
                                     <p class="rp-item-title">BEAUTY AND AESTHETIC CLINIC</p>
-                                    <a href="halomediskin.html" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here </span></a>
+                                    <a href="halomediskin.php" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here </span></a>
                                 </div>
                                 <div class="rp-text">
                                     <p>BEAUTY AND AESTHETIC CLINIC </p>
-                                    <p><a href="halomediskin.html" target="_blank" class="rp-link"><span class="arrow-link ">Click Here </span></a></p>
+                                    <p><a href="halomediskin.php" target="_blank" class="rp-link"><span class="arrow-link ">Click Here </span></a></p>
                                 </div>
                             </div>
                         </div>
@@ -709,7 +709,7 @@
                                 </div>
                                 <div class="rp-text">
                                     <p> Most perfect jewellery for your needs </p>
-                                    <p><a href="vayo.html" target="_blank" class="rp-link"><span class="arrow-link ">Click Here </span></a></p>
+                                    <p><a href="vayo.php" target="_blank" class="rp-link"><span class="arrow-link ">Click Here </span></a></p>
                                 </div>
                             </div>
                         </div>
@@ -749,11 +749,11 @@
                                         <noscript><img width="225" height="70" src="portfolio-images\tomem-logo.png" alt="tomem"></noscript><img class=" lazyloaded" width="225" height="70" src="portfolio-images\tomem-logo.png" data-src="portfolio-images\tomem-logo.png" alt="tomem">
                                     </div>
                                     <!-- <p class="rp-item-title">B2C Website that Delights </p> -->
-                                    <a href="tomem.html" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here </span></a>
+                                    <a href="tomem.php" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here </span></a>
                                 </div>
                                 <div class="rp-text">
                                     <p>Tomem - A better way delivering affordable quality</p>
-                                    <p><a href="tomem.html" target="_blank" class="rp-link"><span class="arrow-link ">Click Here </span></a></p>
+                                    <p><a href="tomem.php" target="_blank" class="rp-link"><span class="arrow-link ">Click Here </span></a></p>
                                 </div>
                             </div>
                         </div>
@@ -793,11 +793,11 @@
                                     <div class="rp-logo">
                                         <noscript><img width="225" height="70" src="portfolio-images\aromatik-logo.png" alt="aromatik"></noscript><img class=" lazyloaded" width="225" height="70" src="portfolio-images\aromatik-logo.png" data-src="portfolio-images\aromatik-logo.png" alt="aromatik">
                                     </div>
-                                    <a href="aromatik.html" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here </span></a>
+                                    <a href="aromatik.php" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here </span></a>
                                 </div>
                                 <div class="rp-text">
                                     <p>Strong and earthy aromatherapy scents.</p>
-                                    <p><a href="aromatik.html" target="_blank" class="rp-link"><span class="arrow-link ">Click Here </span></a></p>
+                                    <p><a href="aromatik.php" target="_blank" class="rp-link"><span class="arrow-link ">Click Here </span></a></p>
                                 </div>
                             </div>
                         </div>
@@ -838,11 +838,11 @@
                                         <noscript><img width="225" height="70" src="portfolio-images\pc-logo.png" alt="pc"></noscript><img class=" ls-is-cached lazyloaded" width="225" height="70" src="portfolio-images\pc-logo.png" data-src="portfolio-images\pc-logo.png" alt="pc">
                                     </div>
                                     <!-- <p class="rp-item-title">Dynamic Website Design</p> -->
-                                    <a href="pocketchange.html" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here </span></a>
+                                    <a href="pocketchange.php" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here </span></a>
                                 </div>
                                 <div class="rp-text">
                                     <p>Buy and sell your most wanted items today.</p>
-                                    <p><a href="pocketchange.html" target="_blank" class="rp-link"><span class="arrow-link ">Click Here </span></a></p>
+                                    <p><a href="pocketchange.php" target="_blank" class="rp-link"><span class="arrow-link ">Click Here </span></a></p>
                                 </div>
                             </div>
                         </div>
@@ -882,11 +882,11 @@
                                         <noscript><img width="240" height="80" src="portfolio-images\haloskin-logo.png" alt="haloskin"></noscript><img class=" lazyloaded" width="240" height="80" src="portfolio-images\haloskin-logo.png" data-src="portfolio-images\haloskin-logo.png" alt="haloskin">
                                     </div>
                                     <!-- <p class="rp-item-title">B2B Custom Website</p> -->
-                                    <a href="halomediskin.html" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here </span></a>
+                                    <a href="halomediskin.php" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here </span></a>
                                 </div>
                                 <div class="rp-text">
                                     <p>Skincare for everyone</p>
-                                    <p><a href="halomediskin.html" target="_blank" class="rp-link"><span class="arrow-link ">Click Here </span></a></p>
+                                    <p><a href="halomediskin.php" target="_blank" class="rp-link"><span class="arrow-link ">Click Here </span></a></p>
                                 </div>
                             </div>
                         </div>

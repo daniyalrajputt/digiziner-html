@@ -21,7 +21,7 @@
          <div class="container">
              <div class="row gy-4">
                  <div class="col-lg-5 col-md-12 footer-info">
-                     <a href="index.html" class="logo d-flex align-items-center">
+                     <a href="index.php" class="logo d-flex align-items-center">
                          <img src="assets\img\DIGIZINER LOGO.png" alt="">
                          <span></span>
                      </a>
@@ -37,22 +37,22 @@
                  <div class="col-lg-2 col-6 footer-links">
                      <h4>Useful Links</h4>
                      <ul>
-                         <li><i class="bi bi-chevron-right"></i> <a href="index.html">Home</a></li>
-                         <li><i class="bi bi-chevron-right"></i> <a href="about-us.html">About us</a></li>
-                         <li><i class="bi bi-chevron-right"></i> <a href="services.html">Services</a></li>
-                         <li><i class="bi bi-chevron-right"></i> <a href="terms-conditions.html">Terms of service</a></li>
-                         <li><i class="bi bi-chevron-right"></i> <a href="privacy-policy.html">Privacy policy</a></li>
+                         <li><i class="bi bi-chevron-right"></i> <a href="index.php">Home</a></li>
+                         <li><i class="bi bi-chevron-right"></i> <a href="about-us.php">About us</a></li>
+                         <li><i class="bi bi-chevron-right"></i> <a href="services.php">Services</a></li>
+                         <li><i class="bi bi-chevron-right"></i> <a href="terms-conditions.php">Terms of service</a></li>
+                         <li><i class="bi bi-chevron-right"></i> <a href="privacy-policy.php">Privacy policy</a></li>
                      </ul>
                  </div>
 
                  <div class="col-lg-2 col-6 footer-links">
                      <h4>Our Services</h4>
                      <ul>
-                         <li><i class="bi bi-chevron-right"></i> <a href="website-development.html">Web Design</a></li>
-                         <li><i class="bi bi-chevron-right"></i> <a href="animation.html">Animation</a></li>
-                         <li><i class="bi bi-chevron-right"></i> <a href="graphic-designing.html">Graphic Design</a></li>
-                         <li><i class="bi bi-chevron-right"></i> <a href="inbound-marketing-or-seo.html">Marketing</a></li>
-                         <li><i class="bi bi-chevron-right"></i> <a href="mobile-app-development.html">Mobile App Design</a></li>
+                         <li><i class="bi bi-chevron-right"></i> <a href="website-development.php">Web Design</a></li>
+                         <li><i class="bi bi-chevron-right"></i> <a href="animation.php">Animation</a></li>
+                         <li><i class="bi bi-chevron-right"></i> <a href="graphic-designing.php">Graphic Design</a></li>
+                         <li><i class="bi bi-chevron-right"></i> <a href="inbound-marketing-or-seo.php">Marketing</a></li>
+                         <li><i class="bi bi-chevron-right"></i> <a href="mobile-app-development.php">Mobile App Design</a></li>
                      </ul>
                  </div>
 
