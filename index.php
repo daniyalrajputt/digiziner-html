@@ -893,7 +893,6 @@
                     </div>
                 </div>
             </div>
-            =
 
             <div class="recent-logos">
                 <div class="itemBox logos">
