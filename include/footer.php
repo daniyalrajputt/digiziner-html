@@ -1,132 +1,63 @@
- <!-- ======= Footer ======= -->
- <footer id="footer" class="footer">
-
-     <!-- <div class="footer-newsletter">
-  <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-lg-12 text-center">
-        <h4>Our Newsletter</h4>
-        <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
-      </div>
-      <div class="col-lg-6">
-        <form action="" method="post">
-          <input type="email" name="email"><input type="submit" value="Subscribe">
-        </form>
-      </div>
+<!-- Begin: Footer -->
+<!-- <footer>
+    <div class="container">
+        <div class="row justify-content-between">
+            <div class="col-md-6">
+                <a href="index.php"><img src="images/logo.png" class="img-fluid footerlogo" alt="logo"></a>
+                <h3>Disclaimer</h3>
+                <p>The logo, name and graphics of thewebfactory.us and its products & services are the trademarks of thewebfactory.us. All other company names, brand names, trademarks and logos mentioned on this website are the property of their respective owners and do not constitute or imply endorsement, sponsorship or recommendation thereof by thewebfactory.us and do not constitute or imply endorsement, sponsorship or recommendation of thewebfactory.us by the respective trademark owner.</p>
+            </div>
+            <div class="col-md-3">
+                <h3>Quick Links</h3>
+                <div class="d-flex">
+                    <ul class="links">
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">About Us</a></li>
+                        <li><a href="#">Portfolio</a></li>
+                        <li><a href="#">Feedback</a></li>
+                        <li><a href="#">Contact Us</a></li>
+                    </ul>
+                    <ul class="links">
+                        <li><a href="#">Terms & Conditions</a></li>
+                        <li><a href="#">Privacy Policy</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <h3>Stay Connected</h3>
+                <ul class="contactList">
+                    <li><a href="#"><i class="fas fa-map-marker-alt"></i>4001 Deats Rd.
+                            Dickinson, TX 77539, USA</a></li>
+                    <li><a href="#"><i class="fas fa-envelope"></i>sam@iracat.com</a></li>
+                    <li><a href="#"><i class="fas fa-phone-alt"></i>832 769 0035</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="row copyRight">
+            <div class="col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="0.5s">
+                <p>Copyright © 2021 All Rights Reserved</p>
+            </div>
+            <div class="col-lg-6 col-md-6 text-right wow fadeInRight" data-wow-delay="0.5s">
+                <img src="images/vise-img.png" alt="" class="img-fluid">
+            </div>
+        </div>
     </div>
-  </div>
-</div> -->
+</footer> -->
+<!-- END: Footer -->
 
-     <div class="footer-top">
-         <div class="container">
-             <div class="row gy-4">
-                 <div class="col-lg-5 col-md-12 footer-info">
-                     <a href="index.php" class="logo d-flex align-items-center">
-                         <img src="assets\img\DIGIZINER LOGO.png" alt="">
-                         <span></span>
-                     </a>
-                     <p>Digiziner is a full-service digital agency where we turn an idea into an inspiration. Alluring the infinity with our immense visualizations, creativity, aspirational elements, and engaging animation.</p>
-                     <div class="social-links mt-3">
-                         <a href="https://twitter.com/Digiziner2" target="_blank" class="twitter"><i class="bi bi-twitter"></i></a>
-                         <a href="https://www.facebook.com/people/Digiziner-Agencyllc/100072776230030/" target="_blank" class="facebook"><i class="bi bi-facebook"></i></a>
-                         <a href="#" class="instagram"><i class="bi bi-instagram bx bxl-instagram"></i></a>
-                         <a href="https://www.linkedin.com/company/digiziner/" target="_blank" class="linkedin"><i class="bi bi-linkedin bx bxl-linkedin"></i></a>
-                     </div>
-                 </div>
-
-                 <div class="col-lg-2 col-6 footer-links">
-                     <h4>Useful Links</h4>
-                     <ul>
-                         <li><i class="bi bi-chevron-right"></i> <a href="index.php">Home</a></li>
-                         <li><i class="bi bi-chevron-right"></i> <a href="about-us.php">About us</a></li>
-                         <li><i class="bi bi-chevron-right"></i> <a href="services.php">Services</a></li>
-                         <li><i class="bi bi-chevron-right"></i> <a href="terms-conditions.php">Terms of service</a></li>
-                         <li><i class="bi bi-chevron-right"></i> <a href="privacy-policy.php">Privacy policy</a></li>
-                     </ul>
-                 </div>
-
-                 <div class="col-lg-2 col-6 footer-links">
-                     <h4>Our Services</h4>
-                     <ul>
-                         <li><i class="bi bi-chevron-right"></i> <a href="website-development.php">Web Design</a></li>
-                         <li><i class="bi bi-chevron-right"></i> <a href="animation.php">Animation</a></li>
-                         <li><i class="bi bi-chevron-right"></i> <a href="graphic-designing.php">Graphic Design</a></li>
-                         <li><i class="bi bi-chevron-right"></i> <a href="inbound-marketing-or-seo.php">Marketing</a></li>
-                         <li><i class="bi bi-chevron-right"></i> <a href="mobile-app-development.php">Mobile App Design</a></li>
-                     </ul>
-                 </div>
-
-                 <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
-                     <h4>Contact Us</h4>
-                     <p>
-                         <strong>Address:</strong> Bradford, UK <br>
-                         <strong>Phone:</strong><a href="tel:+1 5589 55488 55"> +1 5589 55488 55</a><br>
-                         <strong>Email:</strong><a href="mailto:info@digiziner.com"> info@digiziner.com</a><br>
-                     </p>
-
-                 </div>
-
-             </div>
-         </div>
-     </div>
-     <!--Start of Tawk.to Script-->
-     <script type="text/javascript">
-         var Tawk_API = Tawk_API || {},
-             Tawk_LoadStart = new Date();
-         (function() {
-             var s1 = document.createElement("script"),
-                 s0 = document.getElementsByTagName("script")[0];
-             s1.async = true;
-             s1.src = 'https://embed.tawk.to/6123e723649e0a0a5cd28901/1fdq3tov7';
-             s1.charset = 'UTF-8';
-             s1.setAttribute('crossorigin', '*');
-             s0.parentNode.insertBefore(s1, s0);
-         })();
-     </script>
-     <!--End of Tawk.to Script-->
-     <div class="container">
-         <div class="copyright">
-             &copy; Copyright <strong><span>Digiziner</span></strong>. All Rights Reserved
-         </div>
-         <div class="credits">
-             <!-- All the links in the footer should remain intact. -->
-             <!-- You can delete the links only if you purchased the pro version. -->
-             <!-- Licensing information: https://bootstrapmade.com/license/ -->
-             <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/flexstart-bootstrap-startup-template/ -->
-             <!-- Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> -->
-         </div>
-     </div>
- </footer>
- <!-- End Footer -->
-
- <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
-
- <!-- Vendor JS Files -->
-
- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
- <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
- <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
- <script src="https://cdnjs.cloudflare.com/ajax/libs/1000hz-bootstrap-validator/0.11.9/validator.min.js" integrity="sha256-dHf/YjH1A4tewEsKUSmNnV05DDbfGN3g7NMq86xgGh8=" crossorigin="anonymous"></script>
- <script src="assets\js\contact-form\contact.js"></script>
- <script src="assets\js\quote-form\quote.js"></script>
- <script src="assets\vendor\portfolio\filter.js"></script>
- <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
- <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
- <script src="assets\js\cta.js"></script>
-
- <script src="assets/vendor/bootstrap/js/bootstrap.bundle.js"></script>
- <script src="assets/vendor/aos/aos.js"></script>
- <script src="assets/vendor/php-email-form/validate.js"></script>
- <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
- <script src="assets/vendor/purecounter/purecounter.js"></script>
- <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
- <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-
- <script src="assets/vendor/quote.js"></script>
- <!-- Template Main JS File -->
- <script src="assets/js/main.js"></script>
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<!-- <script src="js/jquery-3.5.1.min.js"></script> -->
+<!-- <script src="js/bootstrap.min.js"></script> -->
+<!-- <script src="js/popper.min.js"></script> -->
+<!-- <script src="js/jquery.fancybox.min.js"></script> -->
+<!-- <script src="js/slick.min.js"></script> -->
+<!-- <script src="js/wow.min.js"></script> -->
+<!-- <script src="js/jquery.slimscroll.min.js"></script> -->
+<script src="js/all.min.js"></script>
+<script src="js/custom.min.js"></script>
 
 
- </body>
+</body>
 
- </html>
+</html>
