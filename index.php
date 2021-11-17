@@ -9,31 +9,17 @@
 
 
     <div class="main-slider">
-        <div id="carouselExampleControls" class="carousel slide carousel-fade" data-ride="carousel">
-            <!-- <ol class="carousel-indicators">
-        <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
-        <li data-target="#carouselExampleControls" data-slide-to="1"></li>
-        <li data-target="#carouselExampleControls" data-slide-to="2"></li>
-    </ol> -->
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <img class="img-fluid w-100" src="images/slide1.jpg" alt="First slide">
-                    <div class="carousel-caption">
-                        <div class="container">
-                            <h5>Project Title</h5>
-                            <p>Welcome to atlas beats ! I make all kinds of beats but I specialize in r&b and hiphop beats</p>
-                        </div>
-                    </div>
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-6">
+                    <h2>We integrates strategies for the ultimate digital impact.</h2>
+                    <p>We believe in taking new initiatives in the digital world. From development to integration, we are strong impact creators to offer maximum conversions and on-site engagement.</p>
+                    <a href="#" class='themeBtn'>Request a Quote</a>
+                </div>
+                <div class="col-md-6">
+                    <figure><img src="images/slideImg.png" alt=""></figure>
                 </div>
             </div>
-            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-                <i class="fas fa-angle-left"></i>
-                <span class="sr-only">Previous</span>
-            </a>
-            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-                <i class="fas fa-angle-right"></i>
-                <span class="sr-only">Next</span>
-            </a>
         </div>
     </div>
 
