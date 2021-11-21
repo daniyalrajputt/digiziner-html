@@ -1,48 +1,53 @@
 <!-- Begin: Footer -->
-<!-- <footer>
+<footer>
     <div class="container">
         <div class="row justify-content-between">
-            <div class="col-md-6">
+            <div class="col-md-4">
                 <a href="index.php"><img src="images/logo.png" class="img-fluid footerlogo" alt="logo"></a>
-                <h3>Disclaimer</h3>
-                <p>The logo, name and graphics of thewebfactory.us and its products & services are the trademarks of thewebfactory.us. All other company names, brand names, trademarks and logos mentioned on this website are the property of their respective owners and do not constitute or imply endorsement, sponsorship or recommendation thereof by thewebfactory.us and do not constitute or imply endorsement, sponsorship or recommendation of thewebfactory.us by the respective trademark owner.</p>
+                <p>Digiziner is a full-service digital agency where we turn an idea into an inspiration. Alluring the infinity with our immense visualizations, creativity, aspirational elements, and engaging animation.</p>
+                <ul class="list-unstyled socialIo">
+                    <li><a href="#" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                    <li><a href="#" target="_blank"><i class="fab fa-twitter"></i></a></li>
+                    <li><a href="#" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                    <li><a href="#" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+                </ul>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-2">
                 <h3>Quick Links</h3>
-                <div class="d-flex">
-                    <ul class="links">
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">About Us</a></li>
-                        <li><a href="#">Portfolio</a></li>
-                        <li><a href="#">Feedback</a></li>
-                        <li><a href="#">Contact Us</a></li>
-                    </ul>
-                    <ul class="links">
-                        <li><a href="#">Terms & Conditions</a></li>
-                        <li><a href="#">Privacy Policy</a></li>
-                    </ul>
-                </div>
+                <ul class="links">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Services</a></li>
+                    <li><a href="#">Terms of service</a></li>
+                    <li><a href="#">Privacy policy</a></li>
+                </ul>
+            </div>
+            <div class="col-md-2">
+                <h3>Quick Links</h3>
+                <ul class="links">
+                    <li><a href="#">Web Design</a></li>
+                    <li><a href="#">Animation</a></li>
+                    <li><a href="#">Graphic Design</a></li>
+                    <li><a href="#">Marketing</a></li>
+                    <li><a href="#">Mobile App Design</a></li>
+                </ul>
             </div>
             <div class="col-md-3">
                 <h3>Stay Connected</h3>
                 <ul class="contactList">
-                    <li><a href="#"><i class="fas fa-map-marker-alt"></i>4001 Deats Rd.
-                            Dickinson, TX 77539, USA</a></li>
-                    <li><a href="#"><i class="fas fa-envelope"></i>sam@iracat.com</a></li>
-                    <li><a href="#"><i class="fas fa-phone-alt"></i>832 769 0035</a></li>
+                    <li><a href="#"><i class="fas fa-map-marker-alt"></i> Bradford, UK</a></li>
+                    <li><a href="mailto:info@digiziner.com"><i class="fas fa-envelope"></i>info@digiziner.com</a></li>
+                    <li><a href="tel:+1 5589 55488 55"><i class="fas fa-phone-alt"></i>+1 5589 55488 55</a></li>
                 </ul>
             </div>
         </div>
         <div class="row copyRight">
-            <div class="col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="0.5s">
-                <p>Copyright © 2021 All Rights Reserved</p>
-            </div>
-            <div class="col-lg-6 col-md-6 text-right wow fadeInRight" data-wow-delay="0.5s">
-                <img src="images/vise-img.png" alt="" class="img-fluid">
+            <div class="col-lg-12 wow fadeInLeft" data-wow-delay="0.5s">
+                <p>© Copyright Digiziner. All Rights Reserved</p>
             </div>
         </div>
     </div>
-</footer> -->
+</footer>
 <!-- END: Footer -->
 
 <!-- Optional JavaScript -->
