@@ -134,6 +134,9 @@
     <section class="portfolioSec">
         <div class="container">
             <div class="row">
+                <div class="col-md-12 text-center mb-5">
+                    <h2 class="secHeading"><span>PORTFOLIO</span>Check our latest work</h2>
+                </div>
                 <div class="col-md-12">
                     <nav class="portfolioTabs">
                         <ul class="nav nav-pills" id="myTab" role="tablist">
@@ -595,7 +598,7 @@
         </div>
     </section>
 
-    <section class="countsSec">
+    <section class="countsSec pb-0">
         <div class="container">
             <div class="row">
                 <div class="col-lg-3 col-md-6">

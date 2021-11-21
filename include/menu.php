@@ -4,7 +4,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-6">
-                    <p>Get Uptp 50% OFF on Your First Purchase </p>
+                    <p>Get Upto 50% OFF on Your First Purchase </p>
                 </div>
                 <div class="col-md-6 text-right">
                     <a href="tel:+6765765765765"><i class="fas fa-phone-alt"></i>+67 65765765765</a>
