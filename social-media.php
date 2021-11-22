@@ -31,8 +31,8 @@
                     <div class="content">
                         <h2>SOCIAL MEDIA MARKETING</h2>
                         <p>Digiziner is a Social Media marketing agency you are looking for. We design digital media strategies for multi-channel campaigns. Social media is a game-changer providing distinctive platforms for brand awareness and is used as a sales promotion tool. Twitter, LinkedIn, Facebook, Instagram, Snapchat, YouTube, Pinterest, and other social networks are influencers for new businesses and entrepreneurs. Social media campaigns robust information for target audiences. Generation of leads, spreading info and tailored audits are pre-planned strategies for systematic analysis. Integration, analytics, and intelligence are the essence of our Social Media Marketing.</p>
-                        <a href="#" class="themeBtn">
-                            <span>Give us a call</span>
+                        <a href="#" data-toggle="modal" data-target="#requestModal" class="themeBtn">
+                            <span>Request a Quote</span>
                             <i class="fal fa-long-arrow-right"></i>
                         </a>
                     </div>
@@ -51,7 +51,7 @@
                     <h2 class="secHeading">Start your project now</h2>
                 </div>
                 <div class="col-md-6 text-right">
-                    <a href="#" class="themeBtn">Give us a Call</a>
+                    <a href="contact.php" class="themeBtn">Give us a Call</a>
                 </div>
             </div>
         </div>

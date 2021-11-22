@@ -31,8 +31,8 @@
                     <div class="content">
                         <h2>WEB DEVELOPMENT SERVICES</h2>
                         <p>Digiziner is a fast, result-oriented, and standard Web Development service for B2B purposes. The presence and interactions add value to your brand or service so, we create websites for corporate and competitive businesses through our website development model. The layout, conversion, and speed are the indicators to make a ‘good website’ for your B2B needs. Laravel and AdaAMS are incorporated for complex web applications. Digiziner is a standard website development company incorporating the latest technologies. We have HTML5, Sass, TypeScript, PHP, and CSS3 programming languages. Microsites, landing pages, Facebook pages, and CMS development are our niche in web development services.</p>
-                        <a href="#" class="themeBtn">
-                            <span>Give us a call</span>
+                        <a href="#" data-toggle="modal" data-target="#requestModal" class="themeBtn">
+                            <span>Request a Quote</span>
                             <i class="fal fa-long-arrow-right"></i>
                         </a>
                     </div>
@@ -51,7 +51,7 @@
                     <h2 class="secHeading">Let's build your website</h2>
                 </div>
                 <div class="col-md-6 text-right">
-                    <a href="#" class="themeBtn">Give us a Call</a>
+                    <a href="contact.php" class="themeBtn">Give us a Call</a>
                 </div>
             </div>
         </div>

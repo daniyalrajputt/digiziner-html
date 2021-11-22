@@ -31,8 +31,8 @@
                     <div class="content">
                         <h2>ANIMATION</h2>
                         <p>Animation plays a subsequent role in keeping your visitors interested and holding their attention for a long. We have 3D animation experts to launch or brand your business globally. Why make them settle for less? Animation is completely customized and consistent to allure them to visit again and again. Animation introduces your views, objectives and communicates your business needs before even the reader reads the content. 3D Animation is essential for entrepreneurs today.</p>
-                        <a href="#" class="themeBtn">
-                            <span>Give us a call</span>
+                        <a href="#" data-toggle="modal" data-target="#requestModal" class="themeBtn">
+                            <span>Request a Quote</span>
                             <i class="fal fa-long-arrow-right"></i>
                         </a>
                     </div>
@@ -51,7 +51,7 @@
                     <h2 class="secHeading">Start your project now</h2>
                 </div>
                 <div class="col-md-6 text-right">
-                    <a href="#" class="themeBtn">Give us a Call</a>
+                    <a href="contact.php" class="themeBtn">Give us a Call</a>
                 </div>
             </div>
         </div>

@@ -31,8 +31,8 @@
                     <div class="content">
                         <h2>MOBILE APP DEVELOPMENT</h2>
                         <p>Mobile App Development starts to kick off with an idea. We support the idea with our strategy, design, and development experts. Our Mobile App Development services are integrated with the latest technologies to create revolutionary services and products. Businesses today need transparent, tactful, and imperative apps. Mobile App development service connects you more broadly. It maximizes business potential incorporated with the latest programming languages. Digiziner offers premium and exclusive Mobile app development mediums to choose from.</p>
-                        <a href="#" class="themeBtn">
-                            <span>Give us a call</span>
+                        <a href="#" data-toggle="modal" data-target="#requestModal" class="themeBtn">
+                            <span>Request a Quote</span>
                             <i class="fal fa-long-arrow-right"></i>
                         </a>
                     </div>
@@ -51,7 +51,7 @@
                     <h2 class="secHeading">We Are Available For You</h2>
                 </div>
                 <div class="col-md-6 text-right">
-                    <a href="#" class="themeBtn">Give us a Call</a>
+                    <a href="contact.php" class="themeBtn">Give us a Call</a>
                 </div>
             </div>
         </div>

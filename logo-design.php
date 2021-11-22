@@ -31,8 +31,8 @@
                     <div class="content">
                         <h2>Logo Design</h2>
                         <p>Digiziner specializes in Logo designing. A crux of any business is designing its logo ingeniously that it becomes an inspiration for its audiences. Online logo designing is customized, creates a brand image through exclusiveness and being creative at the same time. Digiziner’s experts help you establish that foundation for your business. We entice being elegant yet creative to make visitors your potential client. Whether it’s a start-up or a corporation, we establish your online presence and support it to sustain the competitive market.</p>
-                        <a href="#" class="themeBtn">
-                            <span>Give us a call</span>
+                        <a href="#" data-toggle="modal" data-target="#requestModal" class="themeBtn">
+                            <span>Request a Quote</span>
                             <i class="fal fa-long-arrow-right"></i>
                         </a>
                     </div>
@@ -51,7 +51,7 @@
                     <h2 class="secHeading">Start your project now</h2>
                 </div>
                 <div class="col-md-6 text-right">
-                    <a href="#" class="themeBtn">Give us a Call</a>
+                    <a href="contact.php" class="themeBtn">Give us a Call</a>
                 </div>
             </div>
         </div>

@@ -31,8 +31,8 @@
                     <div class="content">
                         <h2>INBOUND MARKETING OR SEO</h2>
                         <p>Inbound marketing is a much desired and most awaited revolutionary marketing practice eliminating distances between consumers and sources. The smart data strategy enables entrepreneurs to have a high reach to enablers while making a standard PR. Inbound marketing includes activities with rapid ROI. For instance, developing marketing content strategy, marketing campaigns, and establishing services accordingly. At Digiziner we practice both SEO and inbound marketing creatively.The creativity lies in the execution of content in blogs, marketing campaigns, white papers, infographics, articles, marketing campaigns, landing pages, pay per click and other SEO.</p>
-                        <a href="#" class="themeBtn">
-                            <span>Give us a call</span>
+                        <a href="#" data-toggle="modal" data-target="#requestModal" class="themeBtn">
+                            <span>Request a Quote</span>
                             <i class="fal fa-long-arrow-right"></i>
                         </a>
                     </div>
@@ -51,7 +51,7 @@
                     <h2 class="secHeading">We can help you in SEOs</h2>
                 </div>
                 <div class="col-md-6 text-right">
-                    <a href="#" class="themeBtn">Give us a Call</a>
+                    <a href="contact.php" class="themeBtn">Give us a Call</a>
                 </div>
             </div>
         </div>

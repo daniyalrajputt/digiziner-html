@@ -35,17 +35,17 @@
             <div class="row no-gutters align-items-center">
                 <div class="col-lg-6">
                     <div class="content">
-                        <h3>Who We Are</h3>
-                        <h2>We build brands, designed carefully for a multi-channel digital approach.</h2>
-                        <p>With our creative experts and Information Architects, we are strategic in providing digital solutions to our prestigious clients 24/7.
+                        <h3 class="wow fadeInLeft" data-wow-delay="0.3s">Who We Are</h3>
+                        <h2 class="wow fadeInLeft" data-wow-delay="0.5s">We build brands, designed carefully for a multi-channel digital approach.</h2>
+                        <p class="wow fadeInLeft" data-wow-delay="0.7s">With our creative experts and Information Architects, we are strategic in providing digital solutions to our prestigious clients 24/7.
                             We work on creating awareness for your brand by developing B2B and B2C Lead Generation and localized precision.</p>
-                        <a href="#" class="themeBtn">
+                        <a href="#" class="themeBtn wow fadeInLeft" data-wow-delay="0.9s">
                             <span>Read More</span>
                             <i class="fal fa-long-arrow-right"></i>
                         </a>
                     </div>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 wow fadeInRight" data-wow-delay="0.5s">
                     <img src="images/whoweare.webp" class="img-fluid" alt="">
                 </div>
             </div>
@@ -58,60 +58,60 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center mb-5">
-                    <h2 class="secHeading"><span>SERVICES</span>Services We Offer</h2>
+                    <h2 class="secHeading wow fadeInUp" data-wow-delay="0.5s"><span>SERVICES</span>Services We Offer</h2>
                 </div>
                 <div class="col-lg-4 col-md-6">
-                    <div class="service-box">
+                    <div class="service-box wow fadeInUp" data-wow-delay="0.6s">
                         <i class="fal fa-globe"></i>
                         <h3>Website Development</h3>
                         <p>Digiziner is a fast, result-oriented, and standard Web Development service for B2B purposes. The presence and interactions add value to your brand or service so, we create websites for corporate and competitive businesses through our website development model. </p>
-                        <a href="website-development.html" class="themeBtn"><span>Read More</span> <i class="fal fa-long-arrow-right"></i></a>
+                        <a href="web-dev.php" class="themeBtn"><span>Read More</span> <i class="fal fa-long-arrow-right"></i></a>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6">
-                    <div class="service-box">
+                    <div class="service-box wow fadeInUp" data-wow-delay="0.7s">
                         <img class="media-img" src="images\mobile-application.png">
                         <h3>Mobile Application Development</h3>
                         <p>Mobile App Development starts to kick off with an idea. We support the idea with our strategy, design, and development experts.</p>
-                        <a href="mobile-app-development.html" class="themeBtn"><span>Read More</span> <i class="fal fa-long-arrow-right"></i></a>
+                        <a href="app-dev.php" class="themeBtn"><span>Read More</span> <i class="fal fa-long-arrow-right"></i></a>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6">
-                    <div class="service-box">
+                    <div class="service-box wow fadeInUp" data-wow-delay="0.8s">
                         <!-- <i class="bi bi-megaphone"></i> -->
                         <img class="media-img" src="images\bullhorn.png">
                         <h3>Social Media Marketing</h3>
                         <p>Digiziner is a Social Media marketing agency you are looking for. We design digital media strategies for multi-channel campaigns.</p>
-                        <a href="social-media-marketing.html" class="themeBtn"><span>Read More</span> <i class="fal fa-long-arrow-right"></i></a>
+                        <a href="social-media.php" class="themeBtn"><span>Read More</span> <i class="fal fa-long-arrow-right"></i></a>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6">
-                    <div class="service-box">
+                    <div class="service-box wow fadeInUp" data-wow-delay="0.9s">
                         <img class="media-img" src="images\video.png">
                         <h3>Video Animation</h3>
                         <p>Animation plays a subsequent role in keeping your visitors interested and holding their attention for a long. We have 3D animation experts to launch or brand your business globally. </p>
-                        <a href="animation.html" class="themeBtn"><span>Read More</span> <i class="fal fa-long-arrow-right"></i></a>
+                        <a href="animation.php" class="themeBtn"><span>Read More</span> <i class="fal fa-long-arrow-right"></i></a>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6">
-                    <div class="service-box">
+                    <div class="service-box wow fadeInUp" data-wow-delay="1s">
                         <img class="media-img" src="images\graphic.png">
                         <h3>Graphic Designing</h3>
                         <p>Graphic designing is an impression creator that says it all! The impression created through visuals and designing accompanied with the right type of logo is a professional deal.</p>
-                        <a href="graphic-designing.html" class="themeBtn"><span>Read More</span> <i class="fal fa-long-arrow-right"></i></a>
+                        <a href="graphic-design.php" class="themeBtn"><span>Read More</span> <i class="fal fa-long-arrow-right"></i></a>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6">
-                    <div class="service-box">
+                    <div class="service-box wow fadeInUp" data-wow-delay="1.1s">
                         <img class="media-img" src="images\seo.png">
                         <h3>Inbound Marketing or SEO</h3>
                         <p>Inbound marketing is a much desired and most awaited revolutionary marketing practice eliminating distances between consumers and sources.</p>
-                        <a href="inbound-marketing-or-seo.html" class="themeBtn"><span>Read More</span> <i class="fal fa-long-arrow-right"></i></a>
+                        <a href="seo.php" class="themeBtn"><span>Read More</span> <i class="fal fa-long-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -122,10 +122,10 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-6">
-                    <h2 class="secHeading">Start your project now</h2>
+                    <h2 class="secHeading wow fadeInLeft" data-wow-delay="0.5s">Start your project now</h2>
                 </div>
                 <div class="col-md-6 text-right">
-                    <a href="#" class="themeBtn">Give us a Call</a>
+                    <a href="contact.php" class="themeBtn wow fadeInRight">Give us a Call</a>
                 </div>
             </div>
         </div>
@@ -135,10 +135,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center mb-5">
-                    <h2 class="secHeading"><span>PORTFOLIO</span>Check our latest work</h2>
+                    <h2 class="secHeading wow fadeInUp" data-wow-delay="0.5s"><span>PORTFOLIO</span>Check our latest work</h2>
                 </div>
                 <div class="col-md-12">
-                    <nav class="portfolioTabs">
+                    <nav class="portfolioTabs wow fadeInUp" data-wow-delay="0.6s">
                         <ul class="nav nav-pills" id="myTab" role="tablist">
                             <li class="nav-item">
                                 <a class="nav-link active" id="one-tab" data-toggle="tab" href="#one-pane" role="tab" aria-controls="one-pane" aria-selected="false">Websites</a>
@@ -161,7 +161,7 @@
                             <div class="recent-projects-boxes">
                                 <div class="row">
                                     <div class="col-md-4">
-                                        <div class="itemBox1 websites">
+                                        <div class="itemBox1 websites wow fadeInUp" data-wow-delay="0.8s">
                                             <div class="rp-item">
                                                 <div class="rp-images-container">
                                                     <div class="rp-main-image-block">
@@ -195,7 +195,7 @@
                                                         </div>
                                                         <div class="rp-text">
                                                             <p>BEAUTY AND AESTHETIC CLINIC </p>
-                                                            <p><a href="halomediskin.html" target="_blank" class="rp-link"><span class="arrow-link ">Click Here
+                                                            <p><a href="#" target="_blank" class="rp-link"><span class="arrow-link ">Click Here
                                                                     </span></a></p>
                                                         </div>
                                                     </div>
@@ -204,7 +204,7 @@
                                         </div>
                                     </div>
                                     <div class="col-md-4">
-                                        <div class="itemBox1 websites">
+                                        <div class="itemBox1 websites wow fadeInUp" data-wow-delay="0.8s">
                                             <div class="rp-item">
                                                 <div class="rp-images-container">
                                                     <div class="rp-main-image-block">
@@ -238,7 +238,7 @@
                                                         </div>
                                                         <div class="rp-text">
                                                             <p> Most perfect jewellery for your needs </p>
-                                                            <p><a href="vayo.html" target="_blank" class="rp-link"><span class="arrow-link ">Click Here
+                                                            <p><a href="#" target="_blank" class="rp-link"><span class="arrow-link ">Click Here
                                                                     </span></a></p>
                                                         </div>
                                                     </div>
@@ -247,7 +247,7 @@
                                         </div>
                                     </div>
                                     <div class="col-md-4">
-                                        <div class="itemBox1 websites">
+                                        <div class="itemBox1 websites wow fadeInUp" data-wow-delay="0.8s">
                                             <div class="rp-item">
                                                 <div class="rp-images-container">
                                                     <div class="rp-main-image-block">
@@ -279,12 +279,12 @@
                                                                 <noscript><img width="225" height="70" src="images\tomem-logo.png" alt="tomem"></noscript><img class=" lazyloaded" width="225" height="70" src="images\tomem-logo.png" data-src="images\tomem-logo.png" alt="tomem">
                                                             </div>
                                                             <!-- <p class="rp-item-title">B2C Website that Delights </p> -->
-                                                            <a href="tomem.html" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here
+                                                            <a href="#" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here
                                                                 </span></a>
                                                         </div>
                                                         <div class="rp-text">
                                                             <p>Tomem - A better way delivering affordable quality</p>
-                                                            <p><a href="tomem.html" target="_blank" class="rp-link"><span class="arrow-link ">Click Here
+                                                            <p><a href="#" target="_blank" class="rp-link"><span class="arrow-link ">Click Here
                                                                     </span></a></p>
                                                         </div>
                                                     </div>
@@ -293,7 +293,7 @@
                                         </div>
                                     </div>
                                     <div class="col-md-4">
-                                        <div class="itemBox1 websites">
+                                        <div class="itemBox1 websites wow fadeInUp" data-wow-delay="0.8s">
                                             <div class="rp-item">
                                                 <div class="rp-images-container">
                                                     <div class="rp-main-image-block">
@@ -324,12 +324,12 @@
                                                             <div class="rp-logo">
                                                                 <noscript><img width="225" height="70" src="images\aromatik-logo.png" alt="aromatik"></noscript><img class=" lazyloaded" width="225" height="70" src="images\aromatik-logo.png" data-src="images\aromatik-logo.png" alt="aromatik">
                                                             </div>
-                                                            <a href="aromatik.html" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here
+                                                            <a href="#" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here
                                                                 </span></a>
                                                         </div>
                                                         <div class="rp-text">
                                                             <p>Strong and earthy aromatherapy scents.</p>
-                                                            <p><a href="aromatik.html" target="_blank" class="rp-link"><span class="arrow-link ">Click Here
+                                                            <p><a href="#" target="_blank" class="rp-link"><span class="arrow-link ">Click Here
                                                                     </span></a></p>
                                                         </div>
                                                     </div>
@@ -338,7 +338,7 @@
                                         </div>
                                     </div>
                                     <div class="col-md-4">
-                                        <div class="itemBox1 websites">
+                                        <div class="itemBox1 websites wow fadeInUp" data-wow-delay="0.8s">
                                             <div class="rp-item">
                                                 <div class="rp-images-container">
                                                     <div class="rp-main-image-block">
@@ -370,12 +370,12 @@
                                                                 <noscript><img width="225" height="70" src="images\pc-logo.png" alt="pc"></noscript><img class=" ls-is-cached lazyloaded" width="225" height="70" src="images\pc-logo.png" data-src="images\pc-logo.png" alt="pc">
                                                             </div>
                                                             <!-- <p class="rp-item-title">Dynamic Website Design</p> -->
-                                                            <a href="pocketchange.html" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here
+                                                            <a href="#" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here
                                                                 </span></a>
                                                         </div>
                                                         <div class="rp-text">
                                                             <p>Buy and sell your most wanted items today.</p>
-                                                            <p><a href="pocketchange.html" target="_blank" class="rp-link"><span class="arrow-link ">Click Here
+                                                            <p><a href="#" target="_blank" class="rp-link"><span class="arrow-link ">Click Here
                                                                     </span></a></p>
                                                         </div>
                                                     </div>
@@ -384,7 +384,7 @@
                                         </div>
                                     </div>
                                     <div class="col-md-4">
-                                        <div class="itemBox1 websites">
+                                        <div class="itemBox1 websites wow fadeInUp" data-wow-delay="0.8s">
                                             <div class="rp-item">
                                                 <div class="rp-images-container">
                                                     <div class="rp-main-image-block">
@@ -416,12 +416,12 @@
                                                                 <noscript><img width="240" height="80" src="images\haloskin-logo.png" alt="haloskin"></noscript><img class=" lazyloaded" width="240" height="80" src="images\haloskin-logo.png" data-src="images\haloskin-logo.png" alt="haloskin">
                                                             </div>
                                                             <!-- <p class="rp-item-title">B2B Custom Website</p> -->
-                                                            <a href="halomediskin.html" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here
+                                                            <a href="#" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here
                                                                 </span></a>
                                                         </div>
                                                         <div class="rp-text">
                                                             <p>Skincare for everyone</p>
-                                                            <p><a href="halomediskin.html" target="_blank" class="rp-link"><span class="arrow-link ">Click Here
+                                                            <p><a href="#" target="_blank" class="rp-link"><span class="arrow-link ">Click Here
                                                                     </span></a></p>
                                                         </div>
                                                     </div>
@@ -436,62 +436,62 @@
                         <div class="tab-pane fade" id="two-pane" role="tabpanel" aria-labelledby="two-tab">
                             <div class="row">
                                 <div class="col-md-3">
-                                    <div class="logoCard">
+                                    <div class="logoCard wow bounceIn" data-wow-delay="0.8s">
                                         <img src="images\logos\vayo.webp" class="w-100">
                                     </div>
                                 </div>
                                 <div class="col-md-3">
-                                    <div class="logoCard">
+                                    <div class="logoCard wow bounceIn" data-wow-delay="0.9s">
                                         <img src="images\logos\haloskin.webp" class="w-100">
                                     </div>
                                 </div>
                                 <div class="col-md-3">
-                                    <div class="logoCard">
+                                    <div class="logoCard wow bounceIn" data-wow-delay="1s">
                                         <img src="images\logos\pocket-exchange.webp" class="w-100">
                                     </div>
                                 </div>
                                 <div class="col-md-3">
-                                    <div class="logoCard">
+                                    <div class="logoCard wow bounceIn" data-wow-delay="1.1s">
                                         <img src="images\logos\rose-gallery.webp" class="w-100">
                                     </div>
                                 </div>
                                 <div class="col-md-3">
-                                    <div class="logoCard">
+                                    <div class="logoCard wow bounceIn" data-wow-delay="1.2s">
                                         <img src="images\logos\stive-to-thrive.webp" class="w-100">
                                     </div>
                                 </div>
                                 <div class="col-md-3">
-                                    <div class="logoCard">
+                                    <div class="logoCard wow bounceIn" data-wow-delay="1.3s">
                                         <img src="images\logos\taxi.webp" class="w-100">
                                     </div>
                                 </div>
                                 <div class="col-md-3">
-                                    <div class="logoCard">
+                                    <div class="logoCard wow bounceIn" data-wow-delay="1.4s">
                                         <img src="images\logos\tomem.webp" class="w-100">
                                     </div>
                                 </div>
                                 <div class="col-md-3">
-                                    <div class="logoCard">
+                                    <div class="logoCard wow bounceIn" data-wow-delay="1.5s">
                                         <img src="images\logos\vayo.webp" class="w-100">
                                     </div>
                                 </div>
                                 <div class="col-md-3">
-                                    <div class="logoCard">
+                                    <div class="logoCard wow bounceIn" data-wow-delay="1.6s">
                                         <img src="images\logos\slamskaraoke.webp" class="w-100">
                                     </div>
                                 </div>
                                 <div class="col-md-3">
-                                    <div class="logoCard">
+                                    <div class="logoCard wow bounceIn" data-wow-delay="0.8s">
                                         <img src="images\logos\aromtik.webp" class="w-100">
                                     </div>
                                 </div>
                                 <div class="col-md-3">
-                                    <div class="logoCard">
+                                    <div class="logoCard wow bounceIn" data-wow-delay="0.8s">
                                         <img src="images\logos\anumiskincare.webp" class="w-100">
                                     </div>
                                 </div>
                                 <div class="col-md-3">
-                                    <div class="logoCard">
+                                    <div class="logoCard wow bounceIn" data-wow-delay="0.8s">
                                         <img src="images\logos\aarohi.webp" class="w-100">
                                     </div>
                                 </div>
@@ -506,55 +506,55 @@
                             <div class="recent-videos">
                                 <div class="row">
                                     <div class="col-md-4">
-                                        <div class="videoCard">
+                                        <div class="videoCard wow bounceIn" data-wow-delay="0.5s">
                                             <img class="w-100" src="images/TVCAnimationJingleVoiceOver.webp" alt="Snow">
                                             <a href="https://www.youtube.com/watch?v=xXNzMYaTKFQ" target="_blank"> <img class="play" src="images/youtube.png" alt="Snow"></a>
                                         </div>
                                     </div>
                                     <div class="col-md-4">
-                                        <div class="videoCard">
+                                        <div class="videoCard wow bounceIn" data-wow-delay="0.6s">
                                             <img class="w-100" src="images\ShoppingMallTvcVoiceOver.webp" alt="Snow">
                                             <a href="https://www.youtube.com/watch?v=Zb4mNiJUZXA" target="_blank"> <img class="play" src="images/youtube.png" alt="Snow"></a>
                                         </div>
                                     </div>
                                     <div class="col-md-4">
-                                        <div class="videoCard">
+                                        <div class="videoCard wow bounceIn" data-wow-delay="0.7s">
                                             <img class="w-100" src="images\ZicOilAnimationVoiceOver.webp" alt="Snow">
                                             <a href="https://www.youtube.com/watch?v=sja5qxhTGUE" target="_blank"> <img class="play" src="images/youtube.png" alt="Snow"></a>
                                         </div>
                                     </div>
                                     <div class="col-md-4">
-                                        <div class="videoCard">
+                                        <div class="videoCard wow bounceIn" data-wow-delay="0.5s">
                                             <img class="w-100" src="images\MobileAppEmoTaxiPromo.webp" alt="Snow">
                                             <a href="https://www.youtube.com/watch?v=X2Elv5xPeWU" target="_blank"> <img class="play" src="images/youtube.png" alt="Snow"></a>
                                         </div>
                                     </div>
                                     <div class="col-md-4">
-                                        <div class="videoCard">
+                                        <div class="videoCard wow bounceIn" data-wow-delay="0.6s">
                                             <img class="w-100" src="images\CompanyPromoVideo.webp" alt="Snow">
                                             <a href="https://www.youtube.com/watch?v=mcjWbymgs9M" target="_blank"> <img class="play" src="images/youtube.png" alt="Snow"></a>
                                         </div>
                                     </div>
                                     <div class="col-md-4">
-                                        <div class="videoCard">
+                                        <div class="videoCard wow bounceIn" data-wow-delay="0.7s">
                                             <img class="w-100" src="images\MacBookT2ActivationlockProductinfoVideo.webp" alt="Snow">
                                             <a href="https://www.youtube.com/watch?v=biTxc3ne8Jg" target="_blank"> <img class="play" src="images/youtube.png" alt="Snow"></a>
                                         </div>
                                     </div>
                                     <div class="col-md-4">
-                                        <div class="videoCard">
+                                        <div class="videoCard wow bounceIn" data-wow-delay="0.5s">
                                             <img class="w-100" src="images\VDToolPromoVideo.webp" alt="Snow">
                                             <a href="https://www.youtube.com/watch?v=g4mQdw0kPsk" target="_blank"> <img class="play" src="images/youtube.png" alt="Snow"></a>
                                         </div>
                                     </div>
                                     <div class="col-md-4">
-                                        <div class="videoCard">
+                                        <div class="videoCard wow bounceIn" data-wow-delay="0.6s">
                                             <img class="w-100" src="images\CompanyProfilePromoVideo.webp" alt="Snow">
                                             <a href="https://www.youtube.com/watch?v=8GUDTQJk71Q" target="_blank"> <img class="play" src="images/youtube.png" alt="Snow"></a>
                                         </div>
                                     </div>
                                     <div class="col-md-4">
-                                        <div class="videoCard">
+                                        <div class="videoCard wow bounceIn" data-wow-delay="0.7s">
                                             <img class="w-100" src="images\LogoAnimation.webp" alt="Snow">
                                             <a href="https://www.youtube.com/watch?v=SbwhH72_8XI" target="_blank"> <img class="play" src="images/youtube.png" alt="Snow"></a>
                                         </div>
@@ -571,24 +571,24 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center mb-5">
-                    <h2 class="secHeading"><span>OUR VALUES</span>We Believe In</h2>
+                    <h2 class="secHeading wow fadeInUp" data-wow-delay="0.5s"><span>OUR VALUES</span>We Believe In</h2>
                 </div>
                 <div class="col-lg-4">
-                    <div class="box aos-init aos-animate">
+                    <div class="box wow bounceIn" data-wow-delay="0.6s">
                         <img src="images/values-1.png" class="img-fluid" alt="">
                         <h3>Timely Delivery</h3>
                         <p>Timely delivery is our attitude! Your time is precious and so is our commitment. Digiziners are always on-time to cater clientele.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 mt-4 mt-lg-0">
-                    <div class="box aos-init aos-animate">
+                    <div class="box wow bounceIn" data-wow-delay="0.8s">
                         <img src="images/values-2.png" class="img-fluid" alt="">
                         <h3>Standard Digital Marketing Solutions </h3>
                         <p>Standard digital marketing solutions with Digiziner means only quality. We have experts of digital niche and we are leading the future.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 mt-4 mt-lg-0">
-                    <div class="box aos-init aos-animate">
+                    <div class="box wow bounceIn" data-wow-delay="1s">
                         <img src="images/values-3.png" class="img-fluid" alt="">
                         <h3> Customer Support and PR</h3>
                         <p>Expect the standard services for PR, Sales and Customer support at Digiziner. We are a call away to provide you with the best.</p>
@@ -602,7 +602,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-3 col-md-6">
-                    <div class="count-box">
+                    <div class="count-box wow fadeInUp" data-wow-delay="0.6s">
                         <i class="far fa-smile"></i>
                         <div>
                             <span>232</span>
@@ -611,7 +611,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
-                    <div class="count-box">
+                    <div class="count-box wow fadeInUp" data-wow-delay="0.7s">
                         <i class="fal fa-address-book" style="color: #ee6c20;"></i>
                         <div>
                             <span>521</span>
@@ -620,7 +620,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
-                    <div class="count-box">
+                    <div class="count-box wow fadeInUp" data-wow-delay="0.8s">
                         <i class="fal fa-headphones-alt" style="color: #15be56;"></i>
                         <div>
                             <span>1463</span>
@@ -629,7 +629,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
-                    <div class="count-box">
+                    <div class="count-box wow fadeInUp" data-wow-delay="0.9s">
                         <i class="fas fa-user-friends" style="color: #bb0852;"></i>
                         <div>
                             <span>15</span>
@@ -646,7 +646,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center mb-5">
-                    <h2 class="secHeading"><span>TESTIMONIALS</span>What they are saying about us</h2>
+                    <h2 class="secHeading wow fadeInUp" data-wow-delay="0.3s"><span>TESTIMONIALS</span>What they are saying about us</h2>
                 </div>
             </div>
             <div class="testimonials-slider swiper-container">
@@ -962,8 +962,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <h2 class="secHeading">GET IN TOUCH WITH US</h2>
-                    <a href="#" class="themeBtn">Give us a Call</a>
+                    <h2 class="secHeading wow fadeInUp" data-wow-delay="0.5s">GET IN TOUCH WITH US</h2>
+                    <a href="#" class="themeBtn wow fadeInUp" data-wow-delay="0.8s">Give us a Call</a>
                 </div>
             </div>
         </div>
@@ -975,35 +975,35 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 mb-5 text-center">
-                    <h2 class="secHeading"><span>CONTACT</span>Contact Us</h2>
+                    <h2 class="secHeading wow fadeInUp" data-wow-delay="0.5s"><span>CONTACT</span>Contact Us</h2>
                 </div>
 
 
                 <div class="col-lg-6">
                     <div class="row">
                         <div class="col-md-6">
-                            <div class="info-box">
+                            <div class="info-box wow fadeInUp" data-wow-delay="0.5s">
                                 <i class="fal fa-map-marker-alt"></i>
                                 <h3>Address</h3>
                                 <p>Bradford,<br>UK</p>
                             </div>
                         </div>
                         <div class="col-md-6">
-                            <div class="info-box top">
+                            <div class="info-box top wow fadeInUp" data-wow-delay="0.6s">
                                 <i class="fal fa-phone-alt"></i>
                                 <h3>Call Us</h3>
                                 <p>+44 20 8144 0322</p>
                             </div>
                         </div>
                         <div class="col-md-6">
-                            <div class="info-box">
+                            <div class="info-box wow fadeInUp" data-wow-delay="0.7s">
                                 <i class="fal fa-envelope"></i>
                                 <h3>Email Us</h3>
                                 <p>info@digiziner.com<br>contact@digiziner.com</p>
                             </div>
                         </div>
                         <div class="col-md-6">
-                            <div class="info-box top">
+                            <div class="info-box top wow fadeInUp" data-wow-delay="0.8s">
                                 <i class="fal fa-clock"></i>
                                 <h3>Open Hours</h3>
                                 <p>Monday - Friday<br>9:00AM - 05:00PM</p>
@@ -1012,7 +1012,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-6">
+                <div class="col-lg-6 wow fadeInRight" data-wow-delay="0.5s">
                     <form id="contact-form" method="post" action="" role="form">
                         <div class="messages"></div>
                         <div class="controls">
@@ -1070,7 +1070,6 @@
             </div>
         </div>
     </section>
-
 
 
 

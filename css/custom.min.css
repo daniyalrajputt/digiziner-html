@@ -1524,9 +1524,7 @@ footer .contactList li a {
   color: #fff;
 }
 
-
-
-.modal-dialog{
+.modal-dialog {
   max-width: 100%;
 }
 .modal-content {
@@ -1765,6 +1763,77 @@ form.form-quote input.btn {
 }
 /* modal css */
 
-.modal-backdrop.show{
+.modal-backdrop.show {
   display: none !important;
+}
+
+/*--------------------------------------------------------------
+# Breadcrumbs
+--------------------------------------------------------------*/
+.breadcrumbs {
+  padding: 15px 0;
+  background: #012970;
+  min-height: 40px;
+  margin-top: 82px;
+  color: #fff;
+}
+
+@media (max-width: 992px) {
+  .breadcrumbs {
+    margin-top: 57px;
+  }
+}
+
+.breadcrumbs h2 {
+  font-size: 28px;
+  font-weight: 500;
+}
+
+.breadcrumbs ol {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0 0 10px 0;
+  margin: 0;
+  font-size: 14px;
+}
+
+.breadcrumbs ol a {
+  color: #fff;
+  transition: 0.3s;
+}
+
+.breadcrumbs ol a:hover {
+  text-decoration: underline;
+}
+
+.breadcrumbs ol li + li {
+  padding-left: 10px;
+}
+
+.breadcrumbs ol li + li::before {
+  display: inline-block;
+  padding-right: 10px;
+  color: #8894f6;
+  content: "/";
+}
+
+.terms-sec h2{
+  display: block;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1;
+  margin: 1rem 0;
+  color: var(--theme-color);
+
+}
+.terms-sec p{
+  line-height: 1.8;
+  margin-bottom: 1.5rem;
+}
+.terms-sec ul li{
+  line-height: 1.8;
+  color: #767676;
+  font-size: 16px;
+  font-weight: 400;
 }

@@ -15,21 +15,22 @@
             <div class="col-md-2">
                 <h3>Quick Links</h3>
                 <ul class="links">
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">About Us</a></li>
-                    <li><a href="#">Services</a></li>
-                    <li><a href="#">Terms of service</a></li>
-                    <li><a href="#">Privacy policy</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="about.php">About Us</a></li>
+                    <li><a href="services.php">Services</a></li>
+                    <li><a href="term-condition.php">Terms of service</a></li>
+                    <li><a href="privacy-policy.php">Privacy policy</a></li>
                 </ul>
             </div>
             <div class="col-md-2">
                 <h3>Quick Links</h3>
                 <ul class="links">
-                    <li><a href="#">Web Design</a></li>
-                    <li><a href="#">Animation</a></li>
-                    <li><a href="#">Graphic Design</a></li>
-                    <li><a href="#">Marketing</a></li>
-                    <li><a href="#">Mobile App Design</a></li>
+                    <li><a href="web-dev.php">Web Design</a></li>
+                    <li><a href="animation.php">Animation</a></li>
+                    <li><a href="graphic-design.php">Graphic Design</a></li>
+                    <li><a href="social-media.php">Marketing</a></li>
+                    <li><a href="app-dev.php">Mobile App Design</a></li>
+                    <li><a href="seo.php">SEO</a></li>
                 </ul>
             </div>
             <div class="col-md-3">

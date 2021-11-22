@@ -31,8 +31,8 @@
                     <div class="content">
                         <h2>GRAPHIC DESIGNING</h2>
                         <p>Graphic designing is an impression creator that says it all! The impression created through visuals and designing accompanied with the right type of logo is a professional deal. Visuals are attention-grabbing and can convey the right message to the targeted audiences. At Digiziner we have a perfect Graphic designing software that works from sketching, 3D designing, brochure designing, and poster designing.</p>
-                        <a href="#" class="themeBtn">
-                            <span>Give us a call</span>
+                        <a href="#" data-toggle="modal" data-target="#requestModal" class="themeBtn">
+                            <span>Request a Quote</span>
                             <i class="fal fa-long-arrow-right"></i>
                         </a>
                     </div>
@@ -51,7 +51,7 @@
                     <h2 class="secHeading">Design Your Brand Now</h2>
                 </div>
                 <div class="col-md-6 text-right">
-                    <a href="#" class="themeBtn">Give us a Call</a>
+                    <a href="contact.php" class="themeBtn">Give us a Call</a>
                 </div>
             </div>
         </div>

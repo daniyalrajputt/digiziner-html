@@ -44,7 +44,7 @@
                         <li>CREATING FACEBOOK PAGES</li>
                         <li>DESIGNING AND DEVELOPMENT OF MICRO SITES</li>
                     </ul>
-                    <a href="#" class="themeBtn">
+                    <a href="web-dev.php" class="themeBtn">
                         <span>View More</span>
                         <i class="fal fa-long-arrow-right"></i>
                     </a>
@@ -65,7 +65,7 @@
                         <li>PROTOTYPING & CONCEPT DEVELOPMENT</li>
                         <li>BOT AND CONVERSATIONAL INTERFACE DEVELOPMENT</li>
                     </ul>
-                    <a href="#" class="themeBtn">
+                    <a href="app-dev.php" class="themeBtn">
                         <span>View More</span>
                         <i class="fal fa-long-arrow-right"></i>
                     </a>
@@ -86,7 +86,7 @@
                         <li>INSTAGRAM</li>
                         <li>LINKEDIN</li>
                     </ul>
-                    <a href="#" class="themeBtn">
+                    <a href="social-media.php" class="themeBtn">
                         <span>View More</span>
                         <i class="fal fa-long-arrow-right"></i>
                     </a>
@@ -107,7 +107,7 @@
                         <li>ROUNDS OF CORRECTIONS IN EACH STAGE OF THE PROCESS</li>
                         <li>A SIMPLE 3-STEP PRODUCTION PROCESS</li>
                     </ul>
-                    <a href="#" class="themeBtn">
+                    <a href="animation.php" class="themeBtn">
                         <span>View More</span>
                         <i class="fal fa-long-arrow-right"></i>
                     </a>
@@ -128,7 +128,7 @@
                         <li>BROCHURE DESIGNING</li>
                         <li>POSTER DESIGNING</li>
                     </ul>
-                    <a href="#" class="themeBtn">
+                    <a href="graphic-design.php" class="themeBtn">
                         <span>View More</span>
                         <i class="fal fa-long-arrow-right"></i>
                     </a>
@@ -149,7 +149,7 @@
                         <li>MINIMALIST LOGOS</li>
                         <li>MASCOT LOGOS</li>
                     </ul>
-                    <a href="#" class="themeBtn">
+                    <a href="logo-design.php" class="themeBtn">
                         <span>View More</span>
                         <i class="fal fa-long-arrow-right"></i>
                     </a>
@@ -170,7 +170,7 @@
                         <li>HIGH SCALE PR</li>
                         <li>INCREASED MARKETING ROI</li>
                     </ul>
-                    <a href="#" class="themeBtn">
+                    <a href="seo.php" class="themeBtn">
                         <span>View More</span>
                         <i class="fal fa-long-arrow-right"></i>
                     </a>

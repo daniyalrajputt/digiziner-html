@@ -74,29 +74,28 @@
         </div>
     </section>
 
-
     <section class="valuesSec">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center mb-5">
-                    <h2 class="secHeading"><span>OUR VALUES</span>We Believe In</h2>
+                    <h2 class="secHeading wow fadeInUp" data-wow-delay="0.5s"><span>OUR VALUES</span>We Believe In</h2>
                 </div>
                 <div class="col-lg-4">
-                    <div class="box aos-init aos-animate">
+                    <div class="box wow bounceIn" data-wow-delay="0.6s">
                         <img src="images/values-1.png" class="img-fluid" alt="">
                         <h3>Timely Delivery</h3>
                         <p>Timely delivery is our attitude! Your time is precious and so is our commitment. Digiziners are always on-time to cater clientele.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 mt-4 mt-lg-0">
-                    <div class="box aos-init aos-animate">
+                    <div class="box wow bounceIn" data-wow-delay="0.8s">
                         <img src="images/values-2.png" class="img-fluid" alt="">
                         <h3>Standard Digital Marketing Solutions </h3>
                         <p>Standard digital marketing solutions with Digiziner means only quality. We have experts of digital niche and we are leading the future.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 mt-4 mt-lg-0">
-                    <div class="box aos-init aos-animate">
+                    <div class="box wow bounceIn" data-wow-delay="1s">
                         <img src="images/values-3.png" class="img-fluid" alt="">
                         <h3> Customer Support and PR</h3>
                         <p>Expect the standard services for PR, Sales and Customer support at Digiziner. We are a call away to provide you with the best.</p>
@@ -106,11 +105,11 @@
         </div>
     </section>
 
-    <section class="countsSec">
+    <section class="countsSec pb-0">
         <div class="container">
             <div class="row">
                 <div class="col-lg-3 col-md-6">
-                    <div class="count-box">
+                    <div class="count-box wow fadeInUp" data-wow-delay="0.6s">
                         <i class="far fa-smile"></i>
                         <div>
                             <span>232</span>
@@ -119,7 +118,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
-                    <div class="count-box">
+                    <div class="count-box wow fadeInUp" data-wow-delay="0.7s">
                         <i class="fal fa-address-book" style="color: #ee6c20;"></i>
                         <div>
                             <span>521</span>
@@ -128,7 +127,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
-                    <div class="count-box">
+                    <div class="count-box wow fadeInUp" data-wow-delay="0.8s">
                         <i class="fal fa-headphones-alt" style="color: #15be56;"></i>
                         <div>
                             <span>1463</span>
@@ -137,7 +136,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
-                    <div class="count-box">
+                    <div class="count-box wow fadeInUp" data-wow-delay="0.9s">
                         <i class="fas fa-user-friends" style="color: #bb0852;"></i>
                         <div>
                             <span>15</span>

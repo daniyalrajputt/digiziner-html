@@ -25,38 +25,39 @@
 
 
 
-
     <section class="contactSec">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 mb-5 text-center">
-                    <h2 class="secHeading"><span>CONTACT</span>Contact Us</h2>
+                    <h2 class="secHeading wow fadeInUp" data-wow-delay="0.5s"><span>CONTACT</span>Contact Us</h2>
                 </div>
+
+
                 <div class="col-lg-6">
                     <div class="row">
                         <div class="col-md-6">
-                            <div class="info-box">
+                            <div class="info-box wow fadeInUp" data-wow-delay="0.5s">
                                 <i class="fal fa-map-marker-alt"></i>
                                 <h3>Address</h3>
                                 <p>Bradford,<br>UK</p>
                             </div>
                         </div>
                         <div class="col-md-6">
-                            <div class="info-box top">
+                            <div class="info-box top wow fadeInUp" data-wow-delay="0.6s">
                                 <i class="fal fa-phone-alt"></i>
                                 <h3>Call Us</h3>
                                 <p>+44 20 8144 0322</p>
                             </div>
                         </div>
                         <div class="col-md-6">
-                            <div class="info-box">
+                            <div class="info-box wow fadeInUp" data-wow-delay="0.7s">
                                 <i class="fal fa-envelope"></i>
                                 <h3>Email Us</h3>
                                 <p>info@digiziner.com<br>contact@digiziner.com</p>
                             </div>
                         </div>
                         <div class="col-md-6">
-                            <div class="info-box top">
+                            <div class="info-box top wow fadeInUp" data-wow-delay="0.8s">
                                 <i class="fal fa-clock"></i>
                                 <h3>Open Hours</h3>
                                 <p>Monday - Friday<br>9:00AM - 05:00PM</p>
@@ -65,7 +66,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-6">
+                <div class="col-lg-6 wow fadeInRight" data-wow-delay="0.5s">
                     <form id="contact-form" method="post" action="" role="form">
                         <div class="messages"></div>
                         <div class="controls">
