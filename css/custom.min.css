@@ -1523,3 +1523,248 @@ footer .contactList li a {
   background: #4154f1;
   color: #fff;
 }
+
+
+
+.modal-dialog{
+  max-width: 100%;
+}
+.modal-content {
+  background: transparent !important;
+  background-size: cover !important;
+  /* background-color: #fefefe; */
+  margin: 15% auto; /* 15% from the top and centered */
+  padding: 20px;
+  border: 0px;
+  width: 80%; /* Could be more or less, depending on screen size */
+  margin-top: 150px !important;
+}
+.modal-content h1.text-center {
+  color: #fff !important;
+}
+
+/* The Close Button */
+.close {
+  color: #074256;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+  width: 5% !important;
+  border: 1px solid #ffffff !important;
+  text-align: center !important;
+  background: #ffffff73 !important;
+}
+
+.close:hover,
+.close:focus {
+  color: #fff;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* modal css */
+
+/* Progressbar */
+.progressbar {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  counter-reset: step;
+  margin: 2rem 0 4rem;
+}
+
+.progressbar::before,
+.progress {
+  content: "";
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  height: 4px;
+  width: 100%;
+  background-color: #074256 !important;
+  z-index: -1;
+}
+
+.progress {
+  background-color: #074256;
+  width: 0%;
+  transition: 0.3s;
+}
+.form-quote .introd label {
+  display: block;
+  margin-bottom: 0.5rem;
+  color: #fff;
+}
+.form-quote .introd input {
+  display: block;
+  width: 100%;
+  height: 20px !important;
+  padding: 0.75rem;
+  border: 1px solid #ccc;
+  border-radius: 0.25rem;
+  border: 0px;
+  border-bottom: 1px solid #fff !important;
+  color: #fff;
+}
+.introd .row {
+  margin-top: -30px !important;
+}
+form.form-quote input {
+  background: transparent !important;
+}
+form.form-quote select {
+  background: transparent !important;
+}
+
+.form-quote .cont label {
+  display: block;
+  margin-bottom: 0.5rem;
+  color: #fff;
+}
+.form-quote .cont input {
+  display: block;
+  width: 100%;
+  padding: 0.75rem;
+  border: 1px solid #ccc;
+  border-radius: 0.25rem;
+  border: 0px;
+  border-bottom: 1px solid #074256 !important;
+}
+.form-quote .cont select {
+  display: block;
+  width: 100%;
+  padding: 0.75rem;
+  border: 1px solid #ccc;
+  border-radius: 0.25rem;
+  border: 0px;
+  border-bottom: 1px solid #fff !important;
+  color: #fff;
+}
+.form-quote .cont select option {
+  background: #074256 !important;
+}
+
+.form-quote .note label {
+  display: block;
+  margin-bottom: 0.5rem;
+  color: #fff;
+}
+
+.form-quote .note input {
+  height: 100px !important;
+  display: block;
+  width: 100%;
+  padding: 0.75rem;
+  border: 1px solid #ccc;
+  border-radius: 0.25rem;
+  border: 0px;
+  border-bottom: 1px solid #fff !important;
+  color: #fff;
+}
+.form-radio input {
+  margin-right: 10px !important;
+}
+.progress-step {
+  width: 2.1875rem;
+  height: 2.1875rem;
+  background-color: #d5d5d5;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0px 90px 0px 80px;
+}
+
+.progress-step::before {
+  counter-increment: step;
+  content: counter(step);
+}
+
+.progress-step::after {
+  content: attr(data-title);
+  position: absolute;
+  top: calc(100% + 0.5rem);
+  font-size: 0.85rem;
+  color: #fff;
+  text-align: center !important;
+}
+.progress-step-active {
+  background-color: #074256;
+  color: #f3f3f3;
+}
+
+/* Form */
+
+div#myModal {
+  overflow: hidden !important;
+}
+form.form-quote input.btn {
+  background: #074256 !important;
+}
+.form-quote {
+  width: 70%;
+  margin: 0 auto;
+  border: 1px solid #ccc;
+  border-radius: 0.35rem;
+  padding: 1.5rem;
+  margin-top: -20px;
+  background-image: url(../images/quote-bg2.webp);
+  background-size: cover;
+}
+
+.form-step {
+  display: none;
+  transform-origin: top;
+  animation: animate 0.5s;
+}
+
+.form-step-active {
+  display: block;
+}
+
+.input-group {
+  margin: 2rem 0;
+}
+
+@keyframes animate {
+  from {
+    transform: scale(1, 0);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1, 1);
+    opacity: 1;
+  }
+}
+
+/* Button */
+.btns-group {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+}
+
+.form-quote .btn {
+  padding: 0.75rem;
+  display: block;
+  text-decoration: none;
+  background-color: #074256;
+  color: #f3f3f3;
+  text-align: center;
+  border-radius: 0.25rem;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.btn:hover {
+  box-shadow: 0 0 0 2px #fff, 0 0 0 3px var(--theme-color);
+}
+
+.modal-btn {
+  margin-top: 30px;
+  margin-left: -30px;
+}
+/* modal css */
+
+.modal-backdrop.show{
+  display: none !important;
+}

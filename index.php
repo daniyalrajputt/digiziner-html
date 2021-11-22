@@ -14,12 +14,12 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-md-6">
-                        <h2>We integrates strategies for the ultimate digital impact.</h2>
-                        <p>We believe in taking new initiatives in the digital world. From development to integration, we are strong impact creators to offer maximum conversions and on-site engagement.</p>
-                        <a href="#" class='themeBtn'>Request a Quote</a>
+                        <h2 class="wow fadeInLeft" data-wow-delay="0.5s">We integrates strategies for the ultimate digital impact.</h2>
+                        <p class="wow fadeInLeft" data-wow-delay="0.7s">We believe in taking new initiatives in the digital world. From development to integration, we are strong impact creators to offer maximum conversions and on-site engagement.</p>
+                        <a href="#" class='themeBtn wow fadeInLeft' data-wow-delay="0.9s">Request a Quote</a>
                     </div>
                     <div class="col-md-6">
-                        <figure><img src="images/slideImg.png" alt=""></figure>
+                        <figure class="wow fadeInRight" data-wow-delay="0.5s"><img src="images/slideImg.png" alt=""></figure>
                     </div>
                 </div>
             </div>
