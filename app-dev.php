@@ -66,7 +66,7 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="box">
-                        <img src="images/webapp-value1.png" class="img-fluid" alt="">
+                        <img src="images/webapp-value1.webp" class="img-fluid" alt="">
                         <h3>Android, iOS apps</h3>
                         <p>Android, iOS apps are direct and user-friendly, and intuitive. Digiziner offers innovatory ideas to ‘change the game’ with their distinctive business approach. Our Android and iOS apps are competent, technically sound, and ranks high on App Store.</p>
                     </div>
@@ -80,7 +80,7 @@
                 </div>
                 <div class="col-lg-4 mt-4 mt-lg-0">
                     <div class="box">
-                        <img src="images/webapp-value3.png" class="img-fluid" alt="">
+                        <img src="images/webapp-value3.webp" class="img-fluid" alt="">
                         <h3>Hybrid Apps</h3>
                         <p>Digiziner’s Hybrid Apps balances the scales of apps for its users. A careful blend of Native and Progressive apps that we offer at Digiziners. HTML, JavaScript, CSS and HTML5 are techs incorporated in mobile WebView.</p>
                     </div>
@@ -143,7 +143,7 @@
                     <div class="box">
                         <h3 style="color: #07d5c0;">Free Plan</h3>
                         <div class="price"><sup>$</sup>0<span> / mo</span></div>
-                        <img src="images/pricing-free.png" class="img-fluid" alt="">
+                        <img src="images/pricing-free.webp" class="img-fluid" alt="">
                         <ul>
                             <li>Aida dere</li>
                             <li>Nec feugiat nisl</li>
@@ -159,7 +159,7 @@
                         <span class="featured">Featured</span>
                         <h3 style="color: #65c600;">Starter Plan</h3>
                         <div class="price"><sup>$</sup>19<span> / mo</span></div>
-                        <img src="images/pricing-starter.png" class="img-fluid" alt="">
+                        <img src="images/pricing-starter.webp" class="img-fluid" alt="">
                         <ul>
                             <li>Aida dere</li>
                             <li>Nec feugiat nisl</li>
@@ -174,7 +174,7 @@
                     <div class="box">
                         <h3 style="color: #ff901c;">Business Plan</h3>
                         <div class="price"><sup>$</sup>29<span> / mo</span></div>
-                        <img src="images/pricing-business.png" class="img-fluid" alt="">
+                        <img src="images/pricing-business.webp" class="img-fluid" alt="">
                         <ul>
                             <li>Aida dere</li>
                             <li>Nec feugiat nisl</li>
@@ -189,7 +189,7 @@
                     <div class="box">
                         <h3 style="color: #ff0071;">Ultimate Plan</h3>
                         <div class="price"><sup>$</sup>49<span> / mo</span></div>
-                        <img src="images/pricing-ultimate.png" class="img-fluid" alt="">
+                        <img src="images/pricing-ultimate.webp" class="img-fluid" alt="">
                         <ul>
                             <li>Aida dere</li>
                             <li>Nec feugiat nisl</li>

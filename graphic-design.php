@@ -66,7 +66,7 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="box">
-                        <img src="images/graphdes-value1.png" class="img-fluid" alt="">
+                        <img src="images/graphdes-value1.webp" class="img-fluid" alt="">
                         <h3>Analyze</h3>
                         <p>We analyze your idea and interprets it with our expertise. Creativity is our language and innovation is what we embrace! With our Graphic Designing services, we spice up your idea the professional way, the way it drives you maximum conversions and potential clients.</p>
                     </div>
@@ -80,7 +80,7 @@
                 </div>
                 <div class="col-lg-4 mt-4 mt-lg-0">
                     <div class="box">
-                        <img src="images/graphdes-value3.png" class="img-fluid" alt="">
+                        <img src="images/graphdes-value3.webp" class="img-fluid" alt="">
                         <h3>Quality with affordability</h3>
                         <p>Quality with affordability is catering at Digiziner. We have accumulated prolific and creative minds to claim quality to businesses and enterprises. With a consistent approach and persistent attitude, we promise success to our clients.</p>
                     </div>
@@ -143,7 +143,7 @@
                     <div class="box">
                         <h3 style="color: #07d5c0;">Free Plan</h3>
                         <div class="price"><sup>$</sup>0<span> / mo</span></div>
-                        <img src="images/pricing-free.png" class="img-fluid" alt="">
+                        <img src="images/pricing-free.webp" class="img-fluid" alt="">
                         <ul>
                             <li>Aida dere</li>
                             <li>Nec feugiat nisl</li>
@@ -159,7 +159,7 @@
                         <span class="featured">Featured</span>
                         <h3 style="color: #65c600;">Starter Plan</h3>
                         <div class="price"><sup>$</sup>19<span> / mo</span></div>
-                        <img src="images/pricing-starter.png" class="img-fluid" alt="">
+                        <img src="images/pricing-starter.webp" class="img-fluid" alt="">
                         <ul>
                             <li>Aida dere</li>
                             <li>Nec feugiat nisl</li>
@@ -174,7 +174,7 @@
                     <div class="box">
                         <h3 style="color: #ff901c;">Business Plan</h3>
                         <div class="price"><sup>$</sup>29<span> / mo</span></div>
-                        <img src="images/pricing-business.png" class="img-fluid" alt="">
+                        <img src="images/pricing-business.webp" class="img-fluid" alt="">
                         <ul>
                             <li>Aida dere</li>
                             <li>Nec feugiat nisl</li>
@@ -189,7 +189,7 @@
                     <div class="box">
                         <h3 style="color: #ff0071;">Ultimate Plan</h3>
                         <div class="price"><sup>$</sup>49<span> / mo</span></div>
-                        <img src="images/pricing-ultimate.png" class="img-fluid" alt="">
+                        <img src="images/pricing-ultimate.webp" class="img-fluid" alt="">
                         <ul>
                             <li>Aida dere</li>
                             <li>Nec feugiat nisl</li>

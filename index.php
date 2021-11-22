@@ -9,7 +9,7 @@
 
 
     <div class="main-slider">
-        <!-- <img class="img-fluid w-100" src="images/hero-bg.png" alt="First slide"> -->
+        <!-- <img class="img-fluid w-100" src="images/hero-bg.webp" alt="First slide"> -->
         <div class="carousel-caption">
             <div class="container">
                 <div class="row align-items-center">
@@ -19,7 +19,7 @@
                         <a href="#" class='themeBtn wow fadeInLeft' data-wow-delay="0.9s">Request a Quote</a>
                     </div>
                     <div class="col-md-6">
-                        <figure class="wow fadeInRight" data-wow-delay="0.5s"><img src="images/slideImg.png" alt=""></figure>
+                        <figure class="wow fadeInRight" data-wow-delay="0.5s"><img src="images/slideImg.webp" alt=""></figure>
                     </div>
                 </div>
             </div>
@@ -71,7 +71,7 @@
 
                 <div class="col-lg-4 col-md-6">
                     <div class="service-box wow fadeInUp" data-wow-delay="0.7s">
-                        <img class="media-img" src="images\mobile-application.png">
+                        <img class="media-img" src="images\mobile-application.webp">
                         <h3>Mobile Application Development</h3>
                         <p>Mobile App Development starts to kick off with an idea. We support the idea with our strategy, design, and development experts.</p>
                         <a href="app-dev.php" class="themeBtn"><span>Read More</span> <i class="fal fa-long-arrow-right"></i></a>
@@ -81,7 +81,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="service-box wow fadeInUp" data-wow-delay="0.8s">
                         <!-- <i class="bi bi-megaphone"></i> -->
-                        <img class="media-img" src="images\bullhorn.png">
+                        <img class="media-img" src="images\bullhorn.webp">
                         <h3>Social Media Marketing</h3>
                         <p>Digiziner is a Social Media marketing agency you are looking for. We design digital media strategies for multi-channel campaigns.</p>
                         <a href="social-media.php" class="themeBtn"><span>Read More</span> <i class="fal fa-long-arrow-right"></i></a>
@@ -90,7 +90,7 @@
 
                 <div class="col-lg-4 col-md-6">
                     <div class="service-box wow fadeInUp" data-wow-delay="0.9s">
-                        <img class="media-img" src="images\video.png">
+                        <img class="media-img" src="images\video.webp">
                         <h3>Video Animation</h3>
                         <p>Animation plays a subsequent role in keeping your visitors interested and holding their attention for a long. We have 3D animation experts to launch or brand your business globally. </p>
                         <a href="animation.php" class="themeBtn"><span>Read More</span> <i class="fal fa-long-arrow-right"></i></a>
@@ -99,7 +99,7 @@
 
                 <div class="col-lg-4 col-md-6">
                     <div class="service-box wow fadeInUp" data-wow-delay="1s">
-                        <img class="media-img" src="images\graphic.png">
+                        <img class="media-img" src="images\graphic.webp">
                         <h3>Graphic Designing</h3>
                         <p>Graphic designing is an impression creator that says it all! The impression created through visuals and designing accompanied with the right type of logo is a professional deal.</p>
                         <a href="graphic-design.php" class="themeBtn"><span>Read More</span> <i class="fal fa-long-arrow-right"></i></a>
@@ -108,7 +108,7 @@
 
                 <div class="col-lg-4 col-md-6">
                     <div class="service-box wow fadeInUp" data-wow-delay="1.1s">
-                        <img class="media-img" src="images\seo.png">
+                        <img class="media-img" src="images\seo.webp">
                         <h3>Inbound Marketing or SEO</h3>
                         <p>Inbound marketing is a much desired and most awaited revolutionary marketing practice eliminating distances between consumers and sources.</p>
                         <a href="seo.php" class="themeBtn"><span>Read More</span> <i class="fal fa-long-arrow-right"></i></a>
@@ -180,8 +180,8 @@
                                                     </div>
                                                     <div class="rp-perspective-wrap">
                                                         <picture>
-                                                            <source media="(min-width: 768px)" data-srcset="images\halospa-mock.png" type="image/webp" srcset="images\halospa-mock.png">
-                                                            <source media="(min-width: 768px)" data-srcset="images\halospa-mock.png" type="image/png" srcset="images\halospa-mock.png">
+                                                            <source media="(min-width: 768px)" data-srcset="images\halospa-mock.webp" type="image/webp" srcset="images\halospa-mock.webp">
+                                                            <source media="(min-width: 768px)" data-srcset="images\halospa-mock.webp" type="image/png" srcset="images\halospa-mock.webp">
                                                             <noscript><img class="rp-image-perspective " width="299" height="566" src="" alt="halo"></noscript><img class="rp-image-perspective ls-is-cached lazyloaded" width="299" height="566" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20299%20566%22%3E%3C/svg%3E" data-src="" alt="halo">
                                                         </picture>
                                                     </div>
@@ -190,7 +190,7 @@
                                                     <div class="rp-description">
                                                         <div class="rp-top">
                                                             <div class="rp-logo">
-                                                                <noscript><img width="240" height="70" src="images\hls-logo.png" alt="skim"></noscript><img class=" ls-is-cached lazyloaded" width="240" height="70" src="images\hls-logo.png" data-src="images\hls-logo.png" alt="skin">
+                                                                <noscript><img width="240" height="70" src="images\hls-logo.webp" alt="skim"></noscript><img class=" ls-is-cached lazyloaded" width="240" height="70" src="images\hls-logo.webp" data-src="images\hls-logo.webp" alt="skin">
                                                             </div>
                                                         </div>
                                                         <div class="rp-text">
@@ -223,9 +223,9 @@
                                                     </div>
                                                     <div class="rp-perspective-wrap">
                                                         <picture>
-                                                            <source media="(min-width: 768px)" type="image/webp" srcset="images\vayo-mockup.png">
-                                                            <source media="(min-width: 768px)" type="image/png" srcset="images\vayo-mockup.png">
-                                                            <noscript><img class="rp-image-perspective lazy" width="299" height="566" src="images\vayo-mockup.png" alt="vayo"></noscript><img class="rp-image-perspective lazy ls-is-cached lazyloaded loaded" width="299" height="566" src="https://www.digitalsilk.com/wp-content/themes/digitalsilk/assets/images/seo_pages/recent-projects/Knopp-mockup-min.png" alt="vayo" data-ll-status="loaded">
+                                                            <source media="(min-width: 768px)" type="image/webp" srcset="images\vayo-mockup.webp">
+                                                            <source media="(min-width: 768px)" type="image/png" srcset="images\vayo-mockup.webp">
+                                                            <noscript><img class="rp-image-perspective lazy" width="299" height="566" src="images\vayo-mockup.webp" alt="vayo"></noscript><img class="rp-image-perspective lazy ls-is-cached lazyloaded loaded" width="299" height="566" src="https://www.digitalsilk.com/wp-content/themes/digitalsilk/assets/images/seo_pages/recent-projects/Knopp-mockup-min.webp" alt="vayo" data-ll-status="loaded">
                                                         </picture>
                                                     </div>
                                                 </div>
@@ -233,7 +233,7 @@
                                                     <div class="rp-description">
                                                         <div class="rp-top">
                                                             <div class="rp-logo">
-                                                                <noscript><img width="300" height="70" src="images\vayo-logo.png" alt="vayo"></noscript><img class=" ls-is-cached lazyloaded" width="300" height="70" src="images\vayo-logo.png" data-src="images\vayo-logo.png" alt="vayo">
+                                                                <noscript><img width="300" height="70" src="images\vayo-logo.webp" alt="vayo"></noscript><img class=" ls-is-cached lazyloaded" width="300" height="70" src="images\vayo-logo.webp" data-src="images\vayo-logo.webp" alt="vayo">
                                                             </div>
                                                         </div>
                                                         <div class="rp-text">
@@ -266,9 +266,9 @@
                                                     </div>
                                                     <div class="rp-perspective-wrap">
                                                         <picture>
-                                                            <source media="(min-width: 768px)" type="image/webp" srcset="images\tomem-mockup.png">
-                                                            <source media="(min-width: 768px)" type="image/png" srcset="images\tomem-mockup.png">
-                                                            <noscript><img class="rp-image-perspective lazy" width="299" height="566" src="images\tomem-mockup.png" alt="tomem"></noscript><img class="rp-image-perspective lazy loaded ls-is-cached lazyloaded" width="299" height="566" src="images\tomem-mockup.png" alt="tomem" data-ll-status="loaded">
+                                                            <source media="(min-width: 768px)" type="image/webp" srcset="images\tomem-mockup.webp">
+                                                            <source media="(min-width: 768px)" type="image/png" srcset="images\tomem-mockup.webp">
+                                                            <noscript><img class="rp-image-perspective lazy" width="299" height="566" src="images\tomem-mockup.webp" alt="tomem"></noscript><img class="rp-image-perspective lazy loaded ls-is-cached lazyloaded" width="299" height="566" src="images\tomem-mockup.webp" alt="tomem" data-ll-status="loaded">
                                                         </picture>
                                                     </div>
                                                 </div>
@@ -276,7 +276,7 @@
                                                     <div class="rp-description">
                                                         <div class="rp-top">
                                                             <div class="rp-logo">
-                                                                <noscript><img width="225" height="70" src="images\tomem-logo.png" alt="tomem"></noscript><img class=" lazyloaded" width="225" height="70" src="images\tomem-logo.png" data-src="images\tomem-logo.png" alt="tomem">
+                                                                <noscript><img width="225" height="70" src="images\tomem-logo.webp" alt="tomem"></noscript><img class=" lazyloaded" width="225" height="70" src="images\tomem-logo.webp" data-src="images\tomem-logo.webp" alt="tomem">
                                                             </div>
                                                             <!-- <p class="rp-item-title">B2C Website that Delights </p> -->
                                                             <a href="#" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here
@@ -312,9 +312,9 @@
                                                     </div>
                                                     <div class="rp-perspective-wrap">
                                                         <picture>
-                                                            <source media="(min-width: 768px)" type="image/webp" srcset="images\Aromatik-mockup.png">
-                                                            <source media="(min-width: 768px)" type="image/png" srcset="images\Aromatik-mockup.png">
-                                                            <noscript><img class="rp-image-perspective lazy" width="299" height="70" src="images\aromatik-logo.png" alt="aromatik"></noscript><img class="rp-image-perspective lazy loaded ls-is-cached lazyloaded" width="299" height="566" src="images\aromatik-logo.png" alt="aromatik" data-ll-status="loaded">
+                                                            <source media="(min-width: 768px)" type="image/webp" srcset="images\Aromatik-mockup.webp">
+                                                            <source media="(min-width: 768px)" type="image/png" srcset="images\Aromatik-mockup.webp">
+                                                            <noscript><img class="rp-image-perspective lazy" width="299" height="70" src="images\aromatik-logo.webp" alt="aromatik"></noscript><img class="rp-image-perspective lazy loaded ls-is-cached lazyloaded" width="299" height="566" src="images\aromatik-logo.webp" alt="aromatik" data-ll-status="loaded">
                                                         </picture>
                                                     </div>
                                                 </div>
@@ -322,7 +322,7 @@
                                                     <div class="rp-description">
                                                         <div class="rp-top">
                                                             <div class="rp-logo">
-                                                                <noscript><img width="225" height="70" src="images\aromatik-logo.png" alt="aromatik"></noscript><img class=" lazyloaded" width="225" height="70" src="images\aromatik-logo.png" data-src="images\aromatik-logo.png" alt="aromatik">
+                                                                <noscript><img width="225" height="70" src="images\aromatik-logo.webp" alt="aromatik"></noscript><img class=" lazyloaded" width="225" height="70" src="images\aromatik-logo.webp" data-src="images\aromatik-logo.webp" alt="aromatik">
                                                             </div>
                                                             <a href="#" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here
                                                                 </span></a>
@@ -357,9 +357,9 @@
                                                     </div>
                                                     <div class="rp-perspective-wrap">
                                                         <picture>
-                                                            <source media="(min-width: 768px)" type="image/webp" srcset="images\pocket-change-mockup.png">
-                                                            <source media="(min-width: 768px)" type="image/png" srcset="images\pocket-change-mockup.png">
-                                                            <noscript><img class="rp-image-perspective lazy" width="299" height="566" src="images\pocket-change-mockup.png" alt="pc"></noscript><img class="rp-image-perspective lazy lazyloaded loaded" width="299" height="566" src="images\pocket-change-mockup.png" alt="pc" data-ll-status="loaded">
+                                                            <source media="(min-width: 768px)" type="image/webp" srcset="images\pocket-change-mockup.webp">
+                                                            <source media="(min-width: 768px)" type="image/png" srcset="images\pocket-change-mockup.webp">
+                                                            <noscript><img class="rp-image-perspective lazy" width="299" height="566" src="images\pocket-change-mockup.webp" alt="pc"></noscript><img class="rp-image-perspective lazy lazyloaded loaded" width="299" height="566" src="images\pocket-change-mockup.webp" alt="pc" data-ll-status="loaded">
                                                         </picture>
                                                     </div>
                                                 </div>
@@ -367,7 +367,7 @@
                                                     <div class="rp-description">
                                                         <div class="rp-top">
                                                             <div class="rp-logo">
-                                                                <noscript><img width="225" height="70" src="images\pc-logo.png" alt="pc"></noscript><img class=" ls-is-cached lazyloaded" width="225" height="70" src="images\pc-logo.png" data-src="images\pc-logo.png" alt="pc">
+                                                                <noscript><img width="225" height="70" src="images\pc-logo.webp" alt="pc"></noscript><img class=" ls-is-cached lazyloaded" width="225" height="70" src="images\pc-logo.webp" data-src="images\pc-logo.webp" alt="pc">
                                                             </div>
                                                             <!-- <p class="rp-item-title">Dynamic Website Design</p> -->
                                                             <a href="#" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here
@@ -403,9 +403,9 @@
                                                     </div>
                                                     <div class="rp-perspective-wrap">
                                                         <picture>
-                                                            <source media="(min-width: 768px)" type="image/webp" srcset="images\halomediskin-mockup.png">
-                                                            <source media="(min-width: 768px)" type="image/png" srcset="images\halomediskin-mockup.png">
-                                                            <noscript><img class="rp-image-perspective lazy" width="299" height="566" src="https://www.digitalsilk.com/wp-content/themes/digitalsilk/assets/images/seo_pages/recent-projects/DSBLS_side-min.png" alt="haloskin"></noscript><img class="rp-image-perspective lazy lazyloaded loaded" width="299" height="566" src="images\halomediskin-mockup.png" alt="haloskin" data-ll-status="loaded">
+                                                            <source media="(min-width: 768px)" type="image/webp" srcset="images\halomediskin-mockup.webp">
+                                                            <source media="(min-width: 768px)" type="image/png" srcset="images\halomediskin-mockup.webp">
+                                                            <noscript><img class="rp-image-perspective lazy" width="299" height="566" src="https://www.digitalsilk.com/wp-content/themes/digitalsilk/assets/images/seo_pages/recent-projects/DSBLS_side-min.webp" alt="haloskin"></noscript><img class="rp-image-perspective lazy lazyloaded loaded" width="299" height="566" src="images\halomediskin-mockup.webp" alt="haloskin" data-ll-status="loaded">
                                                         </picture>
                                                     </div>
                                                 </div>
@@ -413,7 +413,7 @@
                                                     <div class="rp-description">
                                                         <div class="rp-top">
                                                             <div class="rp-logo">
-                                                                <noscript><img width="240" height="80" src="images\haloskin-logo.png" alt="haloskin"></noscript><img class=" lazyloaded" width="240" height="80" src="images\haloskin-logo.png" data-src="images\haloskin-logo.png" alt="haloskin">
+                                                                <noscript><img width="240" height="80" src="images\haloskin-logo.webp" alt="haloskin"></noscript><img class=" lazyloaded" width="240" height="80" src="images\haloskin-logo.webp" data-src="images\haloskin-logo.webp" alt="haloskin">
                                                             </div>
                                                             <!-- <p class="rp-item-title">B2B Custom Website</p> -->
                                                             <a href="#" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here
@@ -508,55 +508,55 @@
                                     <div class="col-md-4">
                                         <div class="videoCard wow bounceIn" data-wow-delay="0.5s">
                                             <img class="w-100" src="images/TVCAnimationJingleVoiceOver.webp" alt="Snow">
-                                            <a href="https://www.youtube.com/watch?v=xXNzMYaTKFQ" target="_blank"> <img class="play" src="images/youtube.png" alt="Snow"></a>
+                                            <a href="https://www.youtube.com/watch?v=xXNzMYaTKFQ" target="_blank"> <img class="play" src="images/youtube.webp" alt="Snow"></a>
                                         </div>
                                     </div>
                                     <div class="col-md-4">
                                         <div class="videoCard wow bounceIn" data-wow-delay="0.6s">
                                             <img class="w-100" src="images\ShoppingMallTvcVoiceOver.webp" alt="Snow">
-                                            <a href="https://www.youtube.com/watch?v=Zb4mNiJUZXA" target="_blank"> <img class="play" src="images/youtube.png" alt="Snow"></a>
+                                            <a href="https://www.youtube.com/watch?v=Zb4mNiJUZXA" target="_blank"> <img class="play" src="images/youtube.webp" alt="Snow"></a>
                                         </div>
                                     </div>
                                     <div class="col-md-4">
                                         <div class="videoCard wow bounceIn" data-wow-delay="0.7s">
                                             <img class="w-100" src="images\ZicOilAnimationVoiceOver.webp" alt="Snow">
-                                            <a href="https://www.youtube.com/watch?v=sja5qxhTGUE" target="_blank"> <img class="play" src="images/youtube.png" alt="Snow"></a>
+                                            <a href="https://www.youtube.com/watch?v=sja5qxhTGUE" target="_blank"> <img class="play" src="images/youtube.webp" alt="Snow"></a>
                                         </div>
                                     </div>
                                     <div class="col-md-4">
                                         <div class="videoCard wow bounceIn" data-wow-delay="0.5s">
                                             <img class="w-100" src="images\MobileAppEmoTaxiPromo.webp" alt="Snow">
-                                            <a href="https://www.youtube.com/watch?v=X2Elv5xPeWU" target="_blank"> <img class="play" src="images/youtube.png" alt="Snow"></a>
+                                            <a href="https://www.youtube.com/watch?v=X2Elv5xPeWU" target="_blank"> <img class="play" src="images/youtube.webp" alt="Snow"></a>
                                         </div>
                                     </div>
                                     <div class="col-md-4">
                                         <div class="videoCard wow bounceIn" data-wow-delay="0.6s">
                                             <img class="w-100" src="images\CompanyPromoVideo.webp" alt="Snow">
-                                            <a href="https://www.youtube.com/watch?v=mcjWbymgs9M" target="_blank"> <img class="play" src="images/youtube.png" alt="Snow"></a>
+                                            <a href="https://www.youtube.com/watch?v=mcjWbymgs9M" target="_blank"> <img class="play" src="images/youtube.webp" alt="Snow"></a>
                                         </div>
                                     </div>
                                     <div class="col-md-4">
                                         <div class="videoCard wow bounceIn" data-wow-delay="0.7s">
                                             <img class="w-100" src="images\MacBookT2ActivationlockProductinfoVideo.webp" alt="Snow">
-                                            <a href="https://www.youtube.com/watch?v=biTxc3ne8Jg" target="_blank"> <img class="play" src="images/youtube.png" alt="Snow"></a>
+                                            <a href="https://www.youtube.com/watch?v=biTxc3ne8Jg" target="_blank"> <img class="play" src="images/youtube.webp" alt="Snow"></a>
                                         </div>
                                     </div>
                                     <div class="col-md-4">
                                         <div class="videoCard wow bounceIn" data-wow-delay="0.5s">
                                             <img class="w-100" src="images\VDToolPromoVideo.webp" alt="Snow">
-                                            <a href="https://www.youtube.com/watch?v=g4mQdw0kPsk" target="_blank"> <img class="play" src="images/youtube.png" alt="Snow"></a>
+                                            <a href="https://www.youtube.com/watch?v=g4mQdw0kPsk" target="_blank"> <img class="play" src="images/youtube.webp" alt="Snow"></a>
                                         </div>
                                     </div>
                                     <div class="col-md-4">
                                         <div class="videoCard wow bounceIn" data-wow-delay="0.6s">
                                             <img class="w-100" src="images\CompanyProfilePromoVideo.webp" alt="Snow">
-                                            <a href="https://www.youtube.com/watch?v=8GUDTQJk71Q" target="_blank"> <img class="play" src="images/youtube.png" alt="Snow"></a>
+                                            <a href="https://www.youtube.com/watch?v=8GUDTQJk71Q" target="_blank"> <img class="play" src="images/youtube.webp" alt="Snow"></a>
                                         </div>
                                     </div>
                                     <div class="col-md-4">
                                         <div class="videoCard wow bounceIn" data-wow-delay="0.7s">
                                             <img class="w-100" src="images\LogoAnimation.webp" alt="Snow">
-                                            <a href="https://www.youtube.com/watch?v=SbwhH72_8XI" target="_blank"> <img class="play" src="images/youtube.png" alt="Snow"></a>
+                                            <a href="https://www.youtube.com/watch?v=SbwhH72_8XI" target="_blank"> <img class="play" src="images/youtube.webp" alt="Snow"></a>
                                         </div>
                                     </div>
                                 </div>
@@ -575,21 +575,21 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="box wow bounceIn" data-wow-delay="0.6s">
-                        <img src="images/values-1.png" class="img-fluid" alt="">
+                        <img src="images/values-1.webp" class="img-fluid" alt="">
                         <h3>Timely Delivery</h3>
                         <p>Timely delivery is our attitude! Your time is precious and so is our commitment. Digiziners are always on-time to cater clientele.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 mt-4 mt-lg-0">
                     <div class="box wow bounceIn" data-wow-delay="0.8s">
-                        <img src="images/values-2.png" class="img-fluid" alt="">
+                        <img src="images/values-2.webp" class="img-fluid" alt="">
                         <h3>Standard Digital Marketing Solutions </h3>
                         <p>Standard digital marketing solutions with Digiziner means only quality. We have experts of digital niche and we are leading the future.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 mt-4 mt-lg-0">
                     <div class="box wow bounceIn" data-wow-delay="1s">
-                        <img src="images/values-3.png" class="img-fluid" alt="">
+                        <img src="images/values-3.webp" class="img-fluid" alt="">
                         <h3> Customer Support and PR</h3>
                         <p>Expect the standard services for PR, Sales and Customer support at Digiziner. We are a call away to provide you with the best.</p>
                     </div>
@@ -736,7 +736,7 @@
                                 “Highly recommend the digital agency, they have accumulated everything a digital agency should have on one platform. No hassle, no worries, no excuses, and no delays.”
                             </p>
                             <div class="profile mt-auto">
-                                <img src="images/testimonial-img/T6.png" class="testimonial-img" alt="">
+                                <img src="images/testimonial-img/T6.webp" class="testimonial-img" alt="">
                                 <h3>Albert Sean Paul</h3>
                             </div>
                         </div>
@@ -796,7 +796,7 @@
                                 “The best service I have ever experienced online. I got stuck in my inbound SEO and marketing order, I approached them for support and they handled it skillfully. Now, I can outsource my jobs whenever I need to. Thank Digiziners!”
                             </p>
                             <div class="profile mt-auto">
-                                <img src="images/testimonial-img/T6.png" class="testimonial-img" alt="">
+                                <img src="images/testimonial-img/T6.webp" class="testimonial-img" alt="">
                                 <h3>Charlie. P</h3>
                             </div>
                         </div>
@@ -826,7 +826,7 @@
                                 “I was a bit skeptical about them initially. They explained everything to me and I felt relieved. They are good at what they do and knows exactly how to cater to different clients and their needs. We had numerous discussions and I am now 100% sure my work is in professional hands. Recommendable service.”
                             </p>
                             <div class="profile mt-auto">
-                                <img src="images/testimonial-img/T6.png" class="testimonial-img" alt="">
+                                <img src="images/testimonial-img/T6.webp" class="testimonial-img" alt="">
                                 <h3>Paul Smith</h3>
                             </div>
                         </div>
@@ -916,7 +916,7 @@
                                 “My story is pretty short. It’s a win-win outcome with Digiziners”
                             </p>
                             <div class="profile mt-auto">
-                                <img src="images/testimonial-img/T6.png" class="testimonial-img" alt="">
+                                <img src="images/testimonial-img/T6.webp" class="testimonial-img" alt="">
                                 <h3>Rhea Sinha</h3>
                             </div>
                         </div>
@@ -931,7 +931,7 @@
                                 “I am thankful that they have managed to meet my tough deadline.”
                             </p>
                             <div class="profile mt-auto">
-                                <img src="images/testimonial-img/T14.png" class="testimonial-img" alt="">
+                                <img src="images/testimonial-img/T14.webp" class="testimonial-img" alt="">
                                 <h3>Wayne T</h3>
                             </div>
                         </div>
@@ -1070,7 +1070,6 @@
             </div>
         </div>
     </section>
-
 
 
     <?php include 'include/footer.php' ?>

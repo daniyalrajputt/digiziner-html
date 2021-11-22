@@ -82,21 +82,21 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="box wow bounceIn" data-wow-delay="0.6s">
-                        <img src="images/values-1.png" class="img-fluid" alt="">
+                        <img src="images/values-1.webp" class="img-fluid" alt="">
                         <h3>Timely Delivery</h3>
                         <p>Timely delivery is our attitude! Your time is precious and so is our commitment. Digiziners are always on-time to cater clientele.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 mt-4 mt-lg-0">
                     <div class="box wow bounceIn" data-wow-delay="0.8s">
-                        <img src="images/values-2.png" class="img-fluid" alt="">
+                        <img src="images/values-2.webp" class="img-fluid" alt="">
                         <h3>Standard Digital Marketing Solutions </h3>
                         <p>Standard digital marketing solutions with Digiziner means only quality. We have experts of digital niche and we are leading the future.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 mt-4 mt-lg-0">
                     <div class="box wow bounceIn" data-wow-delay="1s">
-                        <img src="images/values-3.png" class="img-fluid" alt="">
+                        <img src="images/values-3.webp" class="img-fluid" alt="">
                         <h3> Customer Support and PR</h3>
                         <p>Expect the standard services for PR, Sales and Customer support at Digiziner. We are a call away to provide you with the best.</p>
                     </div>

@@ -66,7 +66,7 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="box">
-                        <img src="images/social-value1.png" class="img-fluid" alt="">
+                        <img src="images/social-value1.webp" class="img-fluid" alt="">
                         <h3>Brand Awareness</h3>
                         <p>At Digiziner, we tailor immersive social media campaigns on the following realms. Brand Awareness at Digiziner is not just branding your business at different social media networks but is intended to increase referrals and word of mouth. We are well aware of the power of Social media and thus, we have created a service for well-executed, authoritative, and result-driven social media campaigns.</p>
                     </div>
@@ -80,7 +80,7 @@
                 </div>
                 <div class="col-lg-4 mt-4 mt-lg-0">
                     <div class="box">
-                        <img src="images/social-value3.png" class="img-fluid" alt="">
+                        <img src="images/social-value3.webp" class="img-fluid" alt="">
                         <h3>Maximizing traffic conversions</h3>
                         <p>Social media today is about maximizing traffic conversions. Digiziner’s social media experts strategically bring traffic to influence directly and to maximize traffic conversions.</p>
                     </div>
@@ -143,7 +143,7 @@
                     <div class="box">
                         <h3 style="color: #07d5c0;">Free Plan</h3>
                         <div class="price"><sup>$</sup>0<span> / mo</span></div>
-                        <img src="images/pricing-free.png" class="img-fluid" alt="">
+                        <img src="images/pricing-free.webp" class="img-fluid" alt="">
                         <ul>
                             <li>Aida dere</li>
                             <li>Nec feugiat nisl</li>
@@ -159,7 +159,7 @@
                         <span class="featured">Featured</span>
                         <h3 style="color: #65c600;">Starter Plan</h3>
                         <div class="price"><sup>$</sup>19<span> / mo</span></div>
-                        <img src="images/pricing-starter.png" class="img-fluid" alt="">
+                        <img src="images/pricing-starter.webp" class="img-fluid" alt="">
                         <ul>
                             <li>Aida dere</li>
                             <li>Nec feugiat nisl</li>
@@ -174,7 +174,7 @@
                     <div class="box">
                         <h3 style="color: #ff901c;">Business Plan</h3>
                         <div class="price"><sup>$</sup>29<span> / mo</span></div>
-                        <img src="images/pricing-business.png" class="img-fluid" alt="">
+                        <img src="images/pricing-business.webp" class="img-fluid" alt="">
                         <ul>
                             <li>Aida dere</li>
                             <li>Nec feugiat nisl</li>
@@ -189,7 +189,7 @@
                     <div class="box">
                         <h3 style="color: #ff0071;">Ultimate Plan</h3>
                         <div class="price"><sup>$</sup>49<span> / mo</span></div>
-                        <img src="images/pricing-ultimate.png" class="img-fluid" alt="">
+                        <img src="images/pricing-ultimate.webp" class="img-fluid" alt="">
                         <ul>
                             <li>Aida dere</li>
                             <li>Nec feugiat nisl</li>

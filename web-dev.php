@@ -66,21 +66,21 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="box">
-                        <img src="images/weddev-value-1.png" class="img-fluid" alt="">
+                        <img src="images/weddev-value-1.webp" class="img-fluid" alt="">
                         <h3>Rewarding website development</h3>
                         <p>Digiziner always seeks solutions with maximum ROI and 100% Customer satisfaction. Rewarding website development is what we have worked on since our establishment. From development to execution, monitoring and modifications we got it all!</p>
                     </div>
                 </div>
                 <div class="col-lg-4 mt-4 mt-lg-0">
                     <div class="box">
-                        <img src="images/webdev-value2.png" class="img-fluid" alt="">
+                        <img src="images/webdev-value2.webp" class="img-fluid" alt="">
                         <h3>Customized Client-centric strategies </h3>
                         <p>If you have a landing page or a website, we will design customized Client-centric strategies for your product, service, event, or sale promotions. How about designing a MICRO WEBSITE to get a hold of your Social campaigns and Paid media?</p>
                     </div>
                 </div>
                 <div class="col-lg-4 mt-4 mt-lg-0">
                     <div class="box">
-                        <img src="images/webdev-value3.png" class="img-fluid" alt="">
+                        <img src="images/webdev-value3.webp" class="img-fluid" alt="">
                         <h3>Tracking, updating, and being responsive</h3>
                         <p>Tracking, updating, and being responsive to suggest customized modifications for our prestigious customers is how we strategize to facilitate customers. We believe in improving the overall experience of making your websites fluid for distinctive devices</p>
                     </div>
@@ -143,7 +143,7 @@
                     <div class="box">
                         <h3 style="color: #07d5c0;">Free Plan</h3>
                         <div class="price"><sup>$</sup>0<span> / mo</span></div>
-                        <img src="images/pricing-free.png" class="img-fluid" alt="">
+                        <img src="images/pricing-free.webp" class="img-fluid" alt="">
                         <ul>
                             <li>Aida dere</li>
                             <li>Nec feugiat nisl</li>
@@ -159,7 +159,7 @@
                         <span class="featured">Featured</span>
                         <h3 style="color: #65c600;">Starter Plan</h3>
                         <div class="price"><sup>$</sup>19<span> / mo</span></div>
-                        <img src="images/pricing-starter.png" class="img-fluid" alt="">
+                        <img src="images/pricing-starter.webp" class="img-fluid" alt="">
                         <ul>
                             <li>Aida dere</li>
                             <li>Nec feugiat nisl</li>
@@ -174,7 +174,7 @@
                     <div class="box">
                         <h3 style="color: #ff901c;">Business Plan</h3>
                         <div class="price"><sup>$</sup>29<span> / mo</span></div>
-                        <img src="images/pricing-business.png" class="img-fluid" alt="">
+                        <img src="images/pricing-business.webp" class="img-fluid" alt="">
                         <ul>
                             <li>Aida dere</li>
                             <li>Nec feugiat nisl</li>
@@ -189,7 +189,7 @@
                     <div class="box">
                         <h3 style="color: #ff0071;">Ultimate Plan</h3>
                         <div class="price"><sup>$</sup>49<span> / mo</span></div>
-                        <img src="images/pricing-ultimate.png" class="img-fluid" alt="">
+                        <img src="images/pricing-ultimate.webp" class="img-fluid" alt="">
                         <ul>
                             <li>Aida dere</li>
                             <li>Nec feugiat nisl</li>

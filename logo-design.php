@@ -66,21 +66,21 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="box">
-                        <img src="images/logo-value1.png" class="img-fluid" alt="">
+                        <img src="images/logo-value1.webp" class="img-fluid" alt="">
                         <h3>Customized logo design</h3>
                         <p>Digiziner is a Customized logo design service as we know how it starts and where to start from. Doing it all from scratch by taking small steps from working on an inspiration/ idea to establishing your brand distinctively.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 mt-4 mt-lg-0">
                     <div class="box">
-                        <img src="images/logo-value2.png" class="img-fluid" alt="">
+                        <img src="images/logo-value2.webp" class="img-fluid" alt="">
                         <h3>Varied concepts</h3>
                         <p>Dealing with varied concepts and working on developing their distinctive identity is what we aim for. Our logo designers work on developing and incorporating your details with their creativity to mark the brand across the globe.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 mt-4 mt-lg-0">
                     <div class="box">
-                        <img src="images/logo-value3.png" class="img-fluid" alt="">
+                        <img src="images/logo-value3.webp" class="img-fluid" alt="">
                         <h3>Being Minimalist</h3>
                         <p>Being Minimalist is our approach! Digiziner believes in simple yet impactful logo designing that is the brand message must be conveyed clearly and easily. We endure professional logo designing service with dedication and the right expertise.</p>
                     </div>
@@ -143,7 +143,7 @@
                     <div class="box">
                         <h3 style="color: #07d5c0;">Free Plan</h3>
                         <div class="price"><sup>$</sup>0<span> / mo</span></div>
-                        <img src="images/pricing-free.png" class="img-fluid" alt="">
+                        <img src="images/pricing-free.webp" class="img-fluid" alt="">
                         <ul>
                             <li>Aida dere</li>
                             <li>Nec feugiat nisl</li>
@@ -159,7 +159,7 @@
                         <span class="featured">Featured</span>
                         <h3 style="color: #65c600;">Starter Plan</h3>
                         <div class="price"><sup>$</sup>19<span> / mo</span></div>
-                        <img src="images/pricing-starter.png" class="img-fluid" alt="">
+                        <img src="images/pricing-starter.webp" class="img-fluid" alt="">
                         <ul>
                             <li>Aida dere</li>
                             <li>Nec feugiat nisl</li>
@@ -174,7 +174,7 @@
                     <div class="box">
                         <h3 style="color: #ff901c;">Business Plan</h3>
                         <div class="price"><sup>$</sup>29<span> / mo</span></div>
-                        <img src="images/pricing-business.png" class="img-fluid" alt="">
+                        <img src="images/pricing-business.webp" class="img-fluid" alt="">
                         <ul>
                             <li>Aida dere</li>
                             <li>Nec feugiat nisl</li>
@@ -189,7 +189,7 @@
                     <div class="box">
                         <h3 style="color: #ff0071;">Ultimate Plan</h3>
                         <div class="price"><sup>$</sup>49<span> / mo</span></div>
-                        <img src="images/pricing-ultimate.png" class="img-fluid" alt="">
+                        <img src="images/pricing-ultimate.webp" class="img-fluid" alt="">
                         <ul>
                             <li>Aida dere</li>
                             <li>Nec feugiat nisl</li>

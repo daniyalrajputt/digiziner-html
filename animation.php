@@ -66,21 +66,21 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="box">
-                        <img src="images/animation-value1.png" class="img-fluid" alt="">
+                        <img src="images/animation-value1.webp" class="img-fluid" alt="">
                         <h3>Consistent progress and approach</h3>
                         <p>Consistent progress and approach define us as creative animation services at Digiziner. We range explainer videos, commercial videos, testimonial videos, and internal videos. For businesses, we have company stories to build their B2B image.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 mt-4 mt-lg-0">
                     <div class="box">
-                        <img src="images/animation-value2.png" class="img-fluid" alt="">
+                        <img src="images/animation-value2.webp" class="img-fluid" alt="">
                         <h3>3 step production process</h3>
                         <p>We have 3 step production process for creating masterpieces 100% customized. In each round, we offer amendments as per your requirement</p>
                     </div>
                 </div>
                 <div class="col-lg-4 mt-4 mt-lg-0">
                     <div class="box">
-                        <img src="images/animation-value3.png" class="img-fluid" alt="">
+                        <img src="images/animation-value3.webp" class="img-fluid" alt="">
                         <h3>Build a brand image</h3>
                         <p>We create a benchmark with our standard 3D animation services and video animation services. We design your persona in the marketplace for a B2B and B2C brand image.</p>
                     </div>
@@ -143,7 +143,7 @@
                     <div class="box">
                         <h3 style="color: #07d5c0;">Free Plan</h3>
                         <div class="price"><sup>$</sup>0<span> / mo</span></div>
-                        <img src="images/pricing-free.png" class="img-fluid" alt="">
+                        <img src="images/pricing-free.webp" class="img-fluid" alt="">
                         <ul>
                             <li>Aida dere</li>
                             <li>Nec feugiat nisl</li>
@@ -159,7 +159,7 @@
                         <span class="featured">Featured</span>
                         <h3 style="color: #65c600;">Starter Plan</h3>
                         <div class="price"><sup>$</sup>19<span> / mo</span></div>
-                        <img src="images/pricing-starter.png" class="img-fluid" alt="">
+                        <img src="images/pricing-starter.webp" class="img-fluid" alt="">
                         <ul>
                             <li>Aida dere</li>
                             <li>Nec feugiat nisl</li>
@@ -174,7 +174,7 @@
                     <div class="box">
                         <h3 style="color: #ff901c;">Business Plan</h3>
                         <div class="price"><sup>$</sup>29<span> / mo</span></div>
-                        <img src="images/pricing-business.png" class="img-fluid" alt="">
+                        <img src="images/pricing-business.webp" class="img-fluid" alt="">
                         <ul>
                             <li>Aida dere</li>
                             <li>Nec feugiat nisl</li>
@@ -189,7 +189,7 @@
                     <div class="box">
                         <h3 style="color: #ff0071;">Ultimate Plan</h3>
                         <div class="price"><sup>$</sup>49<span> / mo</span></div>
-                        <img src="images/pricing-ultimate.png" class="img-fluid" alt="">
+                        <img src="images/pricing-ultimate.webp" class="img-fluid" alt="">
                         <ul>
                             <li>Aida dere</li>
                             <li>Nec feugiat nisl</li>
