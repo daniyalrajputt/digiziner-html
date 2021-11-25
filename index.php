@@ -8,8 +8,8 @@
     <!-- Begin: Main Slider -->
 
 
-    <div class="main-slider">
-        <!-- <img class="img-fluid w-100" src="images/hero-bg.webp" alt="First slide"> -->
+    <!-- <div class="main-slider">
+        <img class="img-fluid w-100" src="images/hero-bg.webp" alt="First slide">
         <div class="carousel-caption">
             <div class="container">
                 <div class="row align-items-center">
@@ -23,6 +23,64 @@
                     </div>
                 </div>
             </div>
+        </div>
+    </div> -->
+
+
+    <div class="main-slider">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active wow fadeInLeft" data-wow-delay="0.5s">
+                    <div class="container">
+                        <div class="row align-items-center">
+                            <div class="col-md-6">
+                                <h2 class="wow fadeInLeft" data-wow-delay="0.5s">We integrates strategies for the ultimate digital impact.</h2>
+                                <p class="wow fadeInLeft" data-wow-delay="0.7s">We believe in taking new initiatives in the digital world. From development to integration, we are strong impact creators to offer maximum conversions and on-site engagement.</p>
+                                <a href="#" class='themeBtn wow fadeInLeft' data-wow-delay="0.9s">Request a Quote</a>
+                            </div>
+                            <div class="col-md-6">
+                                <figure class="wow fadeInRight" data-wow-delay="0.5s"><img src="images/slideimg.webp" alt=""></figure>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="container">
+                        <div class="row align-items-center">
+                            <div class="col-md-6">
+                                <h2 class="wow fadeInLeft" data-wow-delay="0.5s">We integrates strategies for the ultimate digital impact.</h2>
+                                <p class="wow fadeInLeft" data-wow-delay="0.7s">We believe in taking new initiatives in the digital world. From development to integration, we are strong impact creators to offer maximum conversions and on-site engagement.</p>
+                                <a href="#" class='themeBtn wow fadeInLeft' data-wow-delay="0.9s">Request a Quote</a>
+                            </div>
+                            <div class="col-md-6">
+                                <figure class="wow fadeInRight" data-wow-delay="0.5s"><img src="images/slideimg.webp" alt=""></figure>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="container">
+                        <div class="row align-items-center">
+                            <div class="col-md-6">
+                                <h2 class="wow fadeInLeft" data-wow-delay="0.5s">We integrates strategies for the ultimate digital impact.</h2>
+                                <p class="wow fadeInLeft" data-wow-delay="0.7s">We believe in taking new initiatives in the digital world. From development to integration, we are strong impact creators to offer maximum conversions and on-site engagement.</p>
+                                <a href="#" class='themeBtn wow fadeInLeft' data-wow-delay="0.9s">Request a Quote</a>
+                            </div>
+                            <div class="col-md-6">
+                                <figure class="wow fadeInRight" data-wow-delay="0.5s"><img src="images/slideimg.webp" alt=""></figure>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                <i class="fas fa-angle-left"></i>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                <i class="fas fa-angle-right"></i>
+                <span class="sr-only">Next</span>
+            </a>
         </div>
     </div>
 
@@ -195,7 +253,7 @@
                                                         </div>
                                                         <div class="rp-text">
                                                             <p>BEAUTY AND AESTHETIC CLINIC </p>
-                                                            <p><a href="#" target="_blank" class="rp-link"><span class="arrow-link ">Click Here
+                                                            <p><a href="halomedispa.php" target="_blank" class="rp-link"><span class="arrow-link ">Click Here
                                                                     </span></a></p>
                                                         </div>
                                                     </div>
@@ -238,7 +296,7 @@
                                                         </div>
                                                         <div class="rp-text">
                                                             <p> Most perfect jewellery for your needs </p>
-                                                            <p><a href="#" target="_blank" class="rp-link"><span class="arrow-link ">Click Here
+                                                            <p><a href="vayo.php" target="_blank" class="rp-link"><span class="arrow-link ">Click Here
                                                                     </span></a></p>
                                                         </div>
                                                     </div>
@@ -278,13 +336,12 @@
                                                             <div class="rp-logo">
                                                                 <noscript><img width="225" height="70" src="images\tomem-logo.webp" alt="tomem"></noscript><img class=" lazyloaded" width="225" height="70" src="images\tomem-logo.webp" data-src="images\tomem-logo.webp" alt="tomem">
                                                             </div>
-                                                            <!-- <p class="rp-item-title">B2C Website that Delights </p> -->
-                                                            <a href="#" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here
+                                                            <a href="tomem.php" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here
                                                                 </span></a>
                                                         </div>
                                                         <div class="rp-text">
                                                             <p>Tomem - A better way delivering affordable quality</p>
-                                                            <p><a href="#" target="_blank" class="rp-link"><span class="arrow-link ">Click Here
+                                                            <p><a href="tomem.php" target="_blank" class="rp-link"><span class="arrow-link ">Click Here
                                                                     </span></a></p>
                                                         </div>
                                                     </div>
@@ -324,12 +381,12 @@
                                                             <div class="rp-logo">
                                                                 <noscript><img width="225" height="70" src="images\aromatik-logo.webp" alt="aromatik"></noscript><img class=" lazyloaded" width="225" height="70" src="images\aromatik-logo.webp" data-src="images\aromatik-logo.webp" alt="aromatik">
                                                             </div>
-                                                            <a href="#" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here
+                                                            <a href="aromatik.php" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here
                                                                 </span></a>
                                                         </div>
                                                         <div class="rp-text">
                                                             <p>Strong and earthy aromatherapy scents.</p>
-                                                            <p><a href="#" target="_blank" class="rp-link"><span class="arrow-link ">Click Here
+                                                            <p><a href="aromatik.php" target="_blank" class="rp-link"><span class="arrow-link ">Click Here
                                                                     </span></a></p>
                                                         </div>
                                                     </div>
@@ -369,13 +426,12 @@
                                                             <div class="rp-logo">
                                                                 <noscript><img width="225" height="70" src="images\pc-logo.webp" alt="pc"></noscript><img class=" ls-is-cached lazyloaded" width="225" height="70" src="images\pc-logo.webp" data-src="images\pc-logo.webp" alt="pc">
                                                             </div>
-                                                            <!-- <p class="rp-item-title">Dynamic Website Design</p> -->
-                                                            <a href="#" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here
+                                                            <a href="pocket-change.php" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here
                                                                 </span></a>
                                                         </div>
                                                         <div class="rp-text">
                                                             <p>Buy and sell your most wanted items today.</p>
-                                                            <p><a href="#" target="_blank" class="rp-link"><span class="arrow-link ">Click Here
+                                                            <p><a href="pocket-change.php" target="_blank" class="rp-link"><span class="arrow-link ">Click Here
                                                                     </span></a></p>
                                                         </div>
                                                     </div>
@@ -415,13 +471,12 @@
                                                             <div class="rp-logo">
                                                                 <noscript><img width="240" height="80" src="images\haloskin-logo.webp" alt="haloskin"></noscript><img class=" lazyloaded" width="240" height="80" src="images\haloskin-logo.webp" data-src="images\haloskin-logo.webp" alt="haloskin">
                                                             </div>
-                                                            <!-- <p class="rp-item-title">B2B Custom Website</p> -->
-                                                            <a href="#" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here
+                                                            <a href="halomediskin.php" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here
                                                                 </span></a>
                                                         </div>
                                                         <div class="rp-text">
                                                             <p>Skincare for everyone</p>
-                                                            <p><a href="#" target="_blank" class="rp-link"><span class="arrow-link ">Click Here
+                                                            <p><a href="halomediskin.php" target="_blank" class="rp-link"><span class="arrow-link ">Click Here
                                                                     </span></a></p>
                                                         </div>
                                                     </div>

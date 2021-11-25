@@ -17,7 +17,7 @@
             <div class="container">
                 <nav class="navbar navbar-expand-lg p-0">
                     <a class="navbar-brand" href="index.php">
-                        <img src="images/logo.png" alt="">
+                        <img src="images/logo.webp" alt="">
                     </a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="fa fa-bars"></span>
@@ -31,8 +31,18 @@
                             <li class="nav-item">
                                 <a class="nav-link" href="about.php">About</a>
                             </li>
-                            <li class="nav-item">
+                            <li class="nav-item dropdown">
                                 <a class="nav-link" href="services.php">Services</a>
+                            
+                            <ul class="dropdownmenu">
+                              <li><a href="web-dev">Website Development</a></li>
+                              <li><a href="mobile-app-development.html">Mobile App Development</a></li>
+                              <li><a href="graphic-designing.html">Graphic Designing</a></li>
+                              <li><a href="social-media-marketing.html">Social Media Marketing</a></li>
+                              <li><a href="ecommerce-website.html">Ecommerce Website</a></li>
+                              <li><a href="animation.html">Animation</a></li>
+                              <li><a href="inbound-marketing-or-seo.html">Inbound Marketing Or SEO</a></li>
+                                </ul>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="portfolio.php">Portfolio</a>

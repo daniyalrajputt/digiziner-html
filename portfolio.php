@@ -91,7 +91,7 @@
                                                         </div>
                                                         <div class="rp-text">
                                                             <p>BEAUTY AND AESTHETIC CLINIC </p>
-                                                            <p><a href="#" target="_blank" class="rp-link"><span class="arrow-link ">Click Here
+                                                            <p><a href="halomedispa.php" target="_blank" class="rp-link"><span class="arrow-link ">Click Here
                                                                     </span></a></p>
                                                         </div>
                                                     </div>
@@ -134,7 +134,7 @@
                                                         </div>
                                                         <div class="rp-text">
                                                             <p> Most perfect jewellery for your needs </p>
-                                                            <p><a href="#" target="_blank" class="rp-link"><span class="arrow-link ">Click Here
+                                                            <p><a href="vayo.php" target="_blank" class="rp-link"><span class="arrow-link ">Click Here
                                                                     </span></a></p>
                                                         </div>
                                                     </div>
@@ -174,13 +174,12 @@
                                                             <div class="rp-logo">
                                                                 <noscript><img width="225" height="70" src="images\tomem-logo.webp" alt="tomem"></noscript><img class=" lazyloaded" width="225" height="70" src="images\tomem-logo.webp" data-src="images\tomem-logo.webp" alt="tomem">
                                                             </div>
-                                                            <!-- <p class="rp-item-title">B2C Website that Delights </p> -->
-                                                            <a href="#" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here
+                                                            <a href="tomem.php" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here
                                                                 </span></a>
                                                         </div>
                                                         <div class="rp-text">
                                                             <p>Tomem - A better way delivering affordable quality</p>
-                                                            <p><a href="#" target="_blank" class="rp-link"><span class="arrow-link ">Click Here
+                                                            <p><a href="tomem.php" target="_blank" class="rp-link"><span class="arrow-link ">Click Here
                                                                     </span></a></p>
                                                         </div>
                                                     </div>
@@ -220,12 +219,12 @@
                                                             <div class="rp-logo">
                                                                 <noscript><img width="225" height="70" src="images\aromatik-logo.webp" alt="aromatik"></noscript><img class=" lazyloaded" width="225" height="70" src="images\aromatik-logo.webp" data-src="images\aromatik-logo.webp" alt="aromatik">
                                                             </div>
-                                                            <a href="#" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here
+                                                            <a href="aromatik.php" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here
                                                                 </span></a>
                                                         </div>
                                                         <div class="rp-text">
                                                             <p>Strong and earthy aromatherapy scents.</p>
-                                                            <p><a href="#" target="_blank" class="rp-link"><span class="arrow-link ">Click Here
+                                                            <p><a href="aromatik.php" target="_blank" class="rp-link"><span class="arrow-link ">Click Here
                                                                     </span></a></p>
                                                         </div>
                                                     </div>
@@ -265,13 +264,12 @@
                                                             <div class="rp-logo">
                                                                 <noscript><img width="225" height="70" src="images\pc-logo.webp" alt="pc"></noscript><img class=" ls-is-cached lazyloaded" width="225" height="70" src="images\pc-logo.webp" data-src="images\pc-logo.webp" alt="pc">
                                                             </div>
-                                                            <!-- <p class="rp-item-title">Dynamic Website Design</p> -->
-                                                            <a href="#" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here
+                                                            <a href="pocket-change.php" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here
                                                                 </span></a>
                                                         </div>
                                                         <div class="rp-text">
                                                             <p>Buy and sell your most wanted items today.</p>
-                                                            <p><a href="#" target="_blank" class="rp-link"><span class="arrow-link ">Click Here
+                                                            <p><a href="pocket-change.php" target="_blank" class="rp-link"><span class="arrow-link ">Click Here
                                                                     </span></a></p>
                                                         </div>
                                                     </div>
@@ -311,13 +309,12 @@
                                                             <div class="rp-logo">
                                                                 <noscript><img width="240" height="80" src="images\haloskin-logo.webp" alt="haloskin"></noscript><img class=" lazyloaded" width="240" height="80" src="images\haloskin-logo.webp" data-src="images\haloskin-logo.webp" alt="haloskin">
                                                             </div>
-                                                            <!-- <p class="rp-item-title">B2B Custom Website</p> -->
-                                                            <a href="#" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here
+                                                            <a href="halomediskin.php" target="_blank" class="rp-link-sm"><span class="arrow-link ">Click Here
                                                                 </span></a>
                                                         </div>
                                                         <div class="rp-text">
                                                             <p>Skincare for everyone</p>
-                                                            <p><a href="#" target="_blank" class="rp-link"><span class="arrow-link ">Click Here
+                                                            <p><a href="halomediskin.php" target="_blank" class="rp-link"><span class="arrow-link ">Click Here
                                                                     </span></a></p>
                                                         </div>
                                                     </div>

@@ -27,7 +27,7 @@
     <section class="breadcrumbs my-0">
         <div class="container">
             <ol>
-                <li><a href="index.html">Home</a></li>
+                <li><a href="index.php">Home</a></li>
                 <li>Terms &amp; Conditions</li>
             </ol>
             <h2>Terms &amp; Conditions</h2>

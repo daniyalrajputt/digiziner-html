@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row justify-content-between">
             <div class="col-md-4">
-                <a href="index.php"><img src="images/logo.png" class="img-fluid footerlogo" alt="logo"></a>
+                <a href="index.php"><img src="images/logo.webp" class="img-fluid footerlogo" alt="logo"></a>
                 <p>Digiziner is a full-service digital agency where we turn an idea into an inspiration. Alluring the infinity with our immense visualizations, creativity, aspirational elements, and engaging animation.</p>
                 <ul class="list-unstyled socialIo">
                     <li><a href="#" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
