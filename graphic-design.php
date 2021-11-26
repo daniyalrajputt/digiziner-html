@@ -30,7 +30,11 @@
                 <div class="col-lg-6">
                     <div class="content">
                         <h2>GRAPHIC DESIGNING</h2>
-                        <p>Graphic designing is an impression creator that says it all! The impression created through visuals and designing accompanied with the right type of logo is a professional deal. Visuals are attention-grabbing and can convey the right message to the targeted audiences. At Digiziner we have a perfect Graphic designing software that works from sketching, 3D designing, brochure designing, and poster designing.</p>
+                        <p>Graphic designing is an impression creator that says it all! The impression created through
+                            visuals and designing accompanied with the right type of logo is a professional deal.
+                            Visuals are attention-grabbing and can convey the right message to the targeted audiences.
+                            At Digiziner we have a perfect Graphic designing software that works from sketching, 3D
+                            designing, brochure designing, and poster designing.</p>
                         <a href="#" data-toggle="modal" data-target="#requestModal" class="themeBtn">
                             <span>Request a Quote</span>
                             <i class="fal fa-long-arrow-right"></i>
@@ -68,21 +72,26 @@
                     <div class="box">
                         <img src="images/graphdes-value1.webp" class="img-fluid" alt="">
                         <h3>Analyze</h3>
-                        <p>We analyze your idea and interprets it with our expertise. Creativity is our language and innovation is what we embrace! With our Graphic Designing services, we spice up your idea the professional way, the way it drives you maximum conversions and potential clients.</p>
+                        <p>We analyze your idea and interprets it with our expertise. Creativity is our language and
+                            innovation is what we embrace! With our Graphic Designing services, we spice up your idea
+                            the professional way, the way it drives you maximum conversions and potential clients.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 mt-4 mt-lg-0">
                     <div class="box">
                         <img src="images/graphdes-value2.webp" class="img-fluid" alt="">
                         <h3>Creative & realistic</h3>
-                        <p>Creative yet realistic sketching and designing make the best visuals to compliment your campaign (branding theme). Our printable materials are customized and innovative.</p>
+                        <p>Creative yet realistic sketching and designing make the best visuals to compliment your
+                            campaign (branding theme). Our printable materials are customized and innovative.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 mt-4 mt-lg-0">
                     <div class="box">
                         <img src="images/graphdes-value3.webp" class="img-fluid" alt="">
                         <h3>Quality with affordability</h3>
-                        <p>Quality with affordability is catering at Digiziner. We have accumulated prolific and creative minds to claim quality to businesses and enterprises. With a consistent approach and persistent attitude, we promise success to our clients.</p>
+                        <p>Quality with affordability is catering at Digiziner. We have accumulated prolific and
+                            creative minds to claim quality to businesses and enterprises. With a consistent approach
+                            and persistent attitude, we promise success to our clients.</p>
                     </div>
                 </div>
             </div>
@@ -92,7 +101,7 @@
     <section class="countsSec pb-0">
         <div class="container">
             <div class="row">
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-3 col-md-6 col-6">
                     <div class="count-box">
                         <i class="far fa-smile"></i>
                         <div>
@@ -101,7 +110,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-3 col-md-6 col-6">
                     <div class="count-box">
                         <i class="fal fa-address-book" style="color: #ee6c20;"></i>
                         <div>
@@ -110,7 +119,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-3 col-md-6 col-6">
                     <div class="count-box">
                         <i class="fal fa-headphones-alt" style="color: #15be56;"></i>
                         <div>
@@ -119,7 +128,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-3 col-md-6 col-6">
                     <div class="count-box">
                         <i class="fas fa-user-friends" style="color: #bb0852;"></i>
                         <div>

@@ -30,7 +30,12 @@
                 <div class="col-lg-6">
                     <div class="content">
                         <h2>ANIMATION</h2>
-                        <p>Animation plays a subsequent role in keeping your visitors interested and holding their attention for a long. We have 3D animation experts to launch or brand your business globally. Why make them settle for less? Animation is completely customized and consistent to allure them to visit again and again. Animation introduces your views, objectives and communicates your business needs before even the reader reads the content. 3D Animation is essential for entrepreneurs today.</p>
+                        <p>Animation plays a subsequent role in keeping your visitors interested and holding their
+                            attention for a long. We have 3D animation experts to launch or brand your business
+                            globally. Why make them settle for less? Animation is completely customized and consistent
+                            to allure them to visit again and again. Animation introduces your views, objectives and
+                            communicates your business needs before even the reader reads the content. 3D Animation is
+                            essential for entrepreneurs today.</p>
                         <a href="#" data-toggle="modal" data-target="#requestModal" class="themeBtn">
                             <span>Request a Quote</span>
                             <i class="fal fa-long-arrow-right"></i>
@@ -68,21 +73,25 @@
                     <div class="box">
                         <img src="images/animation-value1.webp" class="img-fluid" alt="">
                         <h3>Consistent progress and approach</h3>
-                        <p>Consistent progress and approach define us as creative animation services at Digiziner. We range explainer videos, commercial videos, testimonial videos, and internal videos. For businesses, we have company stories to build their B2B image.</p>
+                        <p>Consistent progress and approach define us as creative animation services at Digiziner. We
+                            range explainer videos, commercial videos, testimonial videos, and internal videos. For
+                            businesses, we have company stories to build their B2B image.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 mt-4 mt-lg-0">
                     <div class="box">
                         <img src="images/animation-value2.webp" class="img-fluid" alt="">
                         <h3>3 step production process</h3>
-                        <p>We have 3 step production process for creating masterpieces 100% customized. In each round, we offer amendments as per your requirement</p>
+                        <p>We have 3 step production process for creating masterpieces 100% customized. In each round,
+                            we offer amendments as per your requirement</p>
                     </div>
                 </div>
                 <div class="col-lg-4 mt-4 mt-lg-0">
                     <div class="box">
                         <img src="images/animation-value3.webp" class="img-fluid" alt="">
                         <h3>Build a brand image</h3>
-                        <p>We create a benchmark with our standard 3D animation services and video animation services. We design your persona in the marketplace for a B2B and B2C brand image.</p>
+                        <p>We create a benchmark with our standard 3D animation services and video animation services.
+                            We design your persona in the marketplace for a B2B and B2C brand image.</p>
                     </div>
                 </div>
             </div>
@@ -92,7 +101,7 @@
     <section class="countsSec pb-0">
         <div class="container">
             <div class="row">
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-3 col-md-6 col-6">
                     <div class="count-box">
                         <i class="far fa-smile"></i>
                         <div>
@@ -101,7 +110,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-3 col-md-6 col-6">
                     <div class="count-box">
                         <i class="fal fa-address-book" style="color: #ee6c20;"></i>
                         <div>
@@ -110,7 +119,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-3 col-md-6 col-6">
                     <div class="count-box">
                         <i class="fal fa-headphones-alt" style="color: #15be56;"></i>
                         <div>
@@ -119,7 +128,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-3 col-md-6 col-6">
                     <div class="count-box">
                         <i class="fas fa-user-friends" style="color: #bb0852;"></i>
                         <div>

@@ -30,7 +30,14 @@
                 <div class="col-lg-6">
                     <div class="content">
                         <h2>SOCIAL MEDIA MARKETING</h2>
-                        <p>Digiziner is a Social Media marketing agency you are looking for. We design digital media strategies for multi-channel campaigns. Social media is a game-changer providing distinctive platforms for brand awareness and is used as a sales promotion tool. Twitter, LinkedIn, Facebook, Instagram, Snapchat, YouTube, Pinterest, and other social networks are influencers for new businesses and entrepreneurs. Social media campaigns robust information for target audiences. Generation of leads, spreading info and tailored audits are pre-planned strategies for systematic analysis. Integration, analytics, and intelligence are the essence of our Social Media Marketing.</p>
+                        <p>Digiziner is a Social Media marketing agency you are looking for. We design digital media
+                            strategies for multi-channel campaigns. Social media is a game-changer providing distinctive
+                            platforms for brand awareness and is used as a sales promotion tool. Twitter, LinkedIn,
+                            Facebook, Instagram, Snapchat, YouTube, Pinterest, and other social networks are influencers
+                            for new businesses and entrepreneurs. Social media campaigns robust information for target
+                            audiences. Generation of leads, spreading info and tailored audits are pre-planned
+                            strategies for systematic analysis. Integration, analytics, and intelligence are the essence
+                            of our Social Media Marketing.</p>
                         <a href="#" data-toggle="modal" data-target="#requestModal" class="themeBtn">
                             <span>Request a Quote</span>
                             <i class="fal fa-long-arrow-right"></i>
@@ -68,21 +75,28 @@
                     <div class="box">
                         <img src="images/social-value1.webp" class="img-fluid" alt="">
                         <h3>Brand Awareness</h3>
-                        <p>At Digiziner, we tailor immersive social media campaigns on the following realms. Brand Awareness at Digiziner is not just branding your business at different social media networks but is intended to increase referrals and word of mouth. We are well aware of the power of Social media and thus, we have created a service for well-executed, authoritative, and result-driven social media campaigns.</p>
+                        <p>At Digiziner, we tailor immersive social media campaigns on the following realms. Brand
+                            Awareness at Digiziner is not just branding your business at different social media networks
+                            but is intended to increase referrals and word of mouth. We are well aware of the power of
+                            Social media and thus, we have created a service for well-executed, authoritative, and
+                            result-driven social media campaigns.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 mt-4 mt-lg-0">
                     <div class="box">
                         <img src="images/social-value2.webp" class="img-fluid" alt="">
                         <h3>Engage the customers</h3>
-                        <p>We have the insights and experts to engage the customers throughout the PPC campaigns. To create that special bond with our clients we always strive to give the right message at the right time to the right audiences.</p>
+                        <p>We have the insights and experts to engage the customers throughout the PPC campaigns. To
+                            create that special bond with our clients we always strive to give the right message at the
+                            right time to the right audiences.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 mt-4 mt-lg-0">
                     <div class="box">
                         <img src="images/social-value3.webp" class="img-fluid" alt="">
                         <h3>Maximizing traffic conversions</h3>
-                        <p>Social media today is about maximizing traffic conversions. Digiziner’s social media experts strategically bring traffic to influence directly and to maximize traffic conversions.</p>
+                        <p>Social media today is about maximizing traffic conversions. Digiziner’s social media experts
+                            strategically bring traffic to influence directly and to maximize traffic conversions.</p>
                     </div>
                 </div>
             </div>
@@ -92,7 +106,7 @@
     <section class="countsSec pb-0">
         <div class="container">
             <div class="row">
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-3 col-md-6 col-6">
                     <div class="count-box">
                         <i class="far fa-smile"></i>
                         <div>
@@ -101,7 +115,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-3 col-md-6 col-6">
                     <div class="count-box">
                         <i class="fal fa-address-book" style="color: #ee6c20;"></i>
                         <div>
@@ -110,7 +124,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-3 col-md-6 col-6">
                     <div class="count-box">
                         <i class="fal fa-headphones-alt" style="color: #15be56;"></i>
                         <div>
@@ -119,7 +133,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-3 col-md-6 col-6">
                     <div class="count-box">
                         <i class="fas fa-user-friends" style="color: #bb0852;"></i>
                         <div>

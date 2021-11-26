@@ -30,7 +30,14 @@
                 <div class="col-lg-6">
                     <div class="content">
                         <h2>INBOUND MARKETING OR SEO</h2>
-                        <p>Inbound marketing is a much desired and most awaited revolutionary marketing practice eliminating distances between consumers and sources. The smart data strategy enables entrepreneurs to have a high reach to enablers while making a standard PR. Inbound marketing includes activities with rapid ROI. For instance, developing marketing content strategy, marketing campaigns, and establishing services accordingly. At Digiziner we practice both SEO and inbound marketing creatively.The creativity lies in the execution of content in blogs, marketing campaigns, white papers, infographics, articles, marketing campaigns, landing pages, pay per click and other SEO.</p>
+                        <p>Inbound marketing is a much desired and most awaited revolutionary marketing practice
+                            eliminating distances between consumers and sources. The smart data strategy enables
+                            entrepreneurs to have a high reach to enablers while making a standard PR. Inbound marketing
+                            includes activities with rapid ROI. For instance, developing marketing content strategy,
+                            marketing campaigns, and establishing services accordingly. At Digiziner we practice both
+                            SEO and inbound marketing creatively.The creativity lies in the execution of content in
+                            blogs, marketing campaigns, white papers, infographics, articles, marketing campaigns,
+                            landing pages, pay per click and other SEO.</p>
                         <a href="#" data-toggle="modal" data-target="#requestModal" class="themeBtn">
                             <span>Request a Quote</span>
                             <i class="fal fa-long-arrow-right"></i>
@@ -68,21 +75,27 @@
                     <div class="box">
                         <img src="images/animation-value1.webp" class="img-fluid" alt="">
                         <h3>SEO</h3>
-                        <p>Incorporating SEO smartly means establishing a one-stop Inbound and SEO Marketing solutions for your B2B needs. This even generates the best ROI from your marketing campaigns. Revenues and Calls to action are well-balanced in our Inbound and SEO marketing services.</p>
+                        <p>Incorporating SEO smartly means establishing a one-stop Inbound and SEO Marketing solutions
+                            for your B2B needs. This even generates the best ROI from your marketing campaigns. Revenues
+                            and Calls to action are well-balanced in our Inbound and SEO marketing services.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 mt-4 mt-lg-0">
                     <div class="box">
                         <img src="images/animation-value2.webp" class="img-fluid" alt="">
                         <h3>SERPS</h3>
-                        <p>Google SERPs is what we aim for. Through our intelligent SEO and inbound marketing, we keep it all in the algorithm. Google will rank your page with our fully optimized strategic plan for your business customized accordingly.</p>
+                        <p>Google SERPs is what we aim for. Through our intelligent SEO and inbound marketing, we keep
+                            it all in the algorithm. Google will rank your page with our fully optimized strategic plan
+                            for your business customized accordingly.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 mt-4 mt-lg-0">
                     <div class="box">
                         <img src="images/animation-value3.webp" class="img-fluid" alt="">
                         <h3>Smart data</h3>
-                        <p>Smart data enables us to design result-driven strategies for your business. Our experts' design marketing campaigns with smart data and high-standard techs to manage it all under one roof.</p>
+                        <p>Smart data enables us to design result-driven strategies for your business. Our experts'
+                            design marketing campaigns with smart data and high-standard techs to manage it all under
+                            one roof.</p>
                     </div>
                 </div>
             </div>
@@ -92,7 +105,7 @@
     <section class="countsSec pb-0">
         <div class="container">
             <div class="row">
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-3 col-md-6 col-6">
                     <div class="count-box">
                         <i class="far fa-smile"></i>
                         <div>
@@ -101,7 +114,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-3 col-md-6 col-6">
                     <div class="count-box">
                         <i class="fal fa-address-book" style="color: #ee6c20;"></i>
                         <div>
@@ -110,7 +123,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-3 col-md-6 col-6">
                     <div class="count-box">
                         <i class="fal fa-headphones-alt" style="color: #15be56;"></i>
                         <div>
@@ -119,7 +132,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-3 col-md-6 col-6">
                     <div class="count-box">
                         <i class="fas fa-user-friends" style="color: #bb0852;"></i>
                         <div>

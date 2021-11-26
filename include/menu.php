@@ -3,10 +3,10 @@
     <div class="topBar">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-md-6">
+                <div class="col-md-6 col-6">
                     <p>Get Upto 50% OFF on Your First Purchase </p>
                 </div>
-                <div class="col-md-6 text-right">
+                <div class="col-md-6 col-6 text-right">
                     <a href="tel:+6765765765765"><i class="fas fa-phone-alt"></i>+67 65765765765</a>
                 </div>
             </div>
@@ -19,7 +19,9 @@
                     <a class="navbar-brand" href="index.php">
                         <img src="images/logo.webp" alt="">
                     </a>
-                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <button class="navbar-toggler" type="button" data-toggle="collapse"
+                        data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
                         <span class="fa fa-bars"></span>
                     </button>
 
@@ -33,15 +35,15 @@
                             </li>
                             <li class="nav-item dropdown">
                                 <a class="nav-link" href="services.php">Services</a>
-                            
-                            <ul class="dropdownmenu">
-                              <li><a href="web-dev">Website Development</a></li>
-                              <li><a href="mobile-app-development.html">Mobile App Development</a></li>
-                              <li><a href="graphic-designing.html">Graphic Designing</a></li>
-                              <li><a href="social-media-marketing.html">Social Media Marketing</a></li>
-                              <li><a href="ecommerce-website.html">Ecommerce Website</a></li>
-                              <li><a href="animation.html">Animation</a></li>
-                              <li><a href="inbound-marketing-or-seo.html">Inbound Marketing Or SEO</a></li>
+
+                                <ul class="dropdownmenu">
+                                    <li><a href="web-dev.php">Website Development</a></li>
+                                    <li><a href="app-dev.php">Mobile App Development</a></li>
+                                    <li><a href="graphic-design.php">Graphic Designing</a></li>
+                                    <li><a href="social-media.php">Social Media Marketing</a></li>
+                                    <li><a href="logo-design.php">Logo Design</a></li>
+                                    <li><a href="animation.php">Animation</a></li>
+                                    <li><a href="seo.php">Inbound Marketing Or SEO</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item">
@@ -52,7 +54,8 @@
                             </li>
                         </ul>
                         <div class="form-inline">
-                            <a href="#" class="themeBtn" data-toggle="modal" data-target="#requestModal">Request a Quote</a>
+                            <a href="#" class="themeBtn" data-toggle="modal" data-target="#requestModal">Request a
+                                Quote</a>
                         </div>
                     </div>
                 </nav>

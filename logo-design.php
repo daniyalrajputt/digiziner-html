@@ -30,7 +30,13 @@
                 <div class="col-lg-6">
                     <div class="content">
                         <h2>Logo Design</h2>
-                        <p>Digiziner specializes in Logo designing. A crux of any business is designing its logo ingeniously that it becomes an inspiration for its audiences. Online logo designing is customized, creates a brand image through exclusiveness and being creative at the same time. Digiziner’s experts help you establish that foundation for your business. We entice being elegant yet creative to make visitors your potential client. Whether it’s a start-up or a corporation, we establish your online presence and support it to sustain the competitive market.</p>
+                        <p>Digiziner specializes in Logo designing. A crux of any business is designing its logo
+                            ingeniously that it becomes an inspiration for its audiences. Online logo designing is
+                            customized, creates a brand image through exclusiveness and being creative at the same time.
+                            Digiziner’s experts help you establish that foundation for your business. We entice being
+                            elegant yet creative to make visitors your potential client. Whether it’s a start-up or a
+                            corporation, we establish your online presence and support it to sustain the competitive
+                            market.</p>
                         <a href="#" data-toggle="modal" data-target="#requestModal" class="themeBtn">
                             <span>Request a Quote</span>
                             <i class="fal fa-long-arrow-right"></i>
@@ -68,21 +74,27 @@
                     <div class="box">
                         <img src="images/logo-value1.webp" class="img-fluid" alt="">
                         <h3>Customized logo design</h3>
-                        <p>Digiziner is a Customized logo design service as we know how it starts and where to start from. Doing it all from scratch by taking small steps from working on an inspiration/ idea to establishing your brand distinctively.</p>
+                        <p>Digiziner is a Customized logo design service as we know how it starts and where to start
+                            from. Doing it all from scratch by taking small steps from working on an inspiration/ idea
+                            to establishing your brand distinctively.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 mt-4 mt-lg-0">
                     <div class="box">
                         <img src="images/logo-value2.webp" class="img-fluid" alt="">
                         <h3>Varied concepts</h3>
-                        <p>Dealing with varied concepts and working on developing their distinctive identity is what we aim for. Our logo designers work on developing and incorporating your details with their creativity to mark the brand across the globe.</p>
+                        <p>Dealing with varied concepts and working on developing their distinctive identity is what we
+                            aim for. Our logo designers work on developing and incorporating your details with their
+                            creativity to mark the brand across the globe.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 mt-4 mt-lg-0">
                     <div class="box">
                         <img src="images/logo-value3.webp" class="img-fluid" alt="">
                         <h3>Being Minimalist</h3>
-                        <p>Being Minimalist is our approach! Digiziner believes in simple yet impactful logo designing that is the brand message must be conveyed clearly and easily. We endure professional logo designing service with dedication and the right expertise.</p>
+                        <p>Being Minimalist is our approach! Digiziner believes in simple yet impactful logo designing
+                            that is the brand message must be conveyed clearly and easily. We endure professional logo
+                            designing service with dedication and the right expertise.</p>
                     </div>
                 </div>
             </div>
@@ -92,7 +104,7 @@
     <section class="countsSec pb-0">
         <div class="container">
             <div class="row">
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-3 col-md-6 col-6">
                     <div class="count-box">
                         <i class="far fa-smile"></i>
                         <div>
@@ -101,7 +113,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-3 col-md-6 col-6">
                     <div class="count-box">
                         <i class="fal fa-address-book" style="color: #ee6c20;"></i>
                         <div>
@@ -110,7 +122,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-3 col-md-6 col-6">
                     <div class="count-box">
                         <i class="fal fa-headphones-alt" style="color: #15be56;"></i>
                         <div>
@@ -119,7 +131,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-3 col-md-6 col-6">
                     <div class="count-box">
                         <i class="fas fa-user-friends" style="color: #bb0852;"></i>
                         <div>

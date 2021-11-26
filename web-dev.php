@@ -30,7 +30,14 @@
                 <div class="col-lg-6">
                     <div class="content">
                         <h2>WEB DEVELOPMENT SERVICES</h2>
-                        <p>Digiziner is a fast, result-oriented, and standard Web Development service for B2B purposes. The presence and interactions add value to your brand or service so, we create websites for corporate and competitive businesses through our website development model. The layout, conversion, and speed are the indicators to make a ‘good website’ for your B2B needs. Laravel and AdaAMS are incorporated for complex web applications. Digiziner is a standard website development company incorporating the latest technologies. We have HTML5, Sass, TypeScript, PHP, and CSS3 programming languages. Microsites, landing pages, Facebook pages, and CMS development are our niche in web development services.</p>
+                        <p>Digiziner is a fast, result-oriented, and standard Web Development service for B2B purposes.
+                            The presence and interactions add value to your brand or service so, we create websites for
+                            corporate and competitive businesses through our website development model. The layout,
+                            conversion, and speed are the indicators to make a ‘good website’ for your B2B needs.
+                            Laravel and AdaAMS are incorporated for complex web applications. Digiziner is a standard
+                            website development company incorporating the latest technologies. We have HTML5, Sass,
+                            TypeScript, PHP, and CSS3 programming languages. Microsites, landing pages, Facebook pages,
+                            and CMS development are our niche in web development services.</p>
                         <a href="#" data-toggle="modal" data-target="#requestModal" class="themeBtn">
                             <span>Request a Quote</span>
                             <i class="fal fa-long-arrow-right"></i>
@@ -68,21 +75,27 @@
                     <div class="box">
                         <img src="images/weddev-value-1.webp" class="img-fluid" alt="">
                         <h3>Rewarding website development</h3>
-                        <p>Digiziner always seeks solutions with maximum ROI and 100% Customer satisfaction. Rewarding website development is what we have worked on since our establishment. From development to execution, monitoring and modifications we got it all!</p>
+                        <p>Digiziner always seeks solutions with maximum ROI and 100% Customer satisfaction. Rewarding
+                            website development is what we have worked on since our establishment. From development to
+                            execution, monitoring and modifications we got it all!</p>
                     </div>
                 </div>
                 <div class="col-lg-4 mt-4 mt-lg-0">
                     <div class="box">
                         <img src="images/webdev-value2.webp" class="img-fluid" alt="">
                         <h3>Customized Client-centric strategies </h3>
-                        <p>If you have a landing page or a website, we will design customized Client-centric strategies for your product, service, event, or sale promotions. How about designing a MICRO WEBSITE to get a hold of your Social campaigns and Paid media?</p>
+                        <p>If you have a landing page or a website, we will design customized Client-centric strategies
+                            for your product, service, event, or sale promotions. How about designing a MICRO WEBSITE to
+                            get a hold of your Social campaigns and Paid media?</p>
                     </div>
                 </div>
                 <div class="col-lg-4 mt-4 mt-lg-0">
                     <div class="box">
                         <img src="images/webdev-value3.webp" class="img-fluid" alt="">
                         <h3>Tracking, updating, and being responsive</h3>
-                        <p>Tracking, updating, and being responsive to suggest customized modifications for our prestigious customers is how we strategize to facilitate customers. We believe in improving the overall experience of making your websites fluid for distinctive devices</p>
+                        <p>Tracking, updating, and being responsive to suggest customized modifications for our
+                            prestigious customers is how we strategize to facilitate customers. We believe in improving
+                            the overall experience of making your websites fluid for distinctive devices</p>
                     </div>
                 </div>
             </div>
@@ -92,7 +105,7 @@
     <section class="countsSec pb-0">
         <div class="container">
             <div class="row">
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-3 col-md-6 col-6">
                     <div class="count-box">
                         <i class="far fa-smile"></i>
                         <div>
@@ -101,7 +114,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-3 col-md-6 col-6">
                     <div class="count-box">
                         <i class="fal fa-address-book" style="color: #ee6c20;"></i>
                         <div>
@@ -110,7 +123,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-3 col-md-6 col-6">
                     <div class="count-box">
                         <i class="fal fa-headphones-alt" style="color: #15be56;"></i>
                         <div>
@@ -119,7 +132,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-3 col-md-6 col-6">
                     <div class="count-box">
                         <i class="fas fa-user-friends" style="color: #bb0852;"></i>
                         <div>

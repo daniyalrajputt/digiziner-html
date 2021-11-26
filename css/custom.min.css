@@ -397,8 +397,9 @@ header.sticky .navbar-brand img {
   align-items: center;
   padding: 30px;
   width: 100%;
+  margin-bottom: 1.5rem;
   background: #fff;
-  box-shadow: 0 0 30px rgba(1, 41, 112, 0.08);
+  box-shadow: 0 0 20px 5px rgba(1, 41, 112, 0.08);
 }
 .countsSec .count-box i {
   font-size: 42px;
@@ -555,6 +556,7 @@ form#contact-form input.btn.btn-success.btn-send.disabled {
   justify-content: center;
   min-height: 200px;
   margin-bottom: 1.5rem;
+  box-shadow: 0 0 20px 5px rgba(1, 41, 112, 0.08);
   border-radius: 20px;
   position: relative;
 }

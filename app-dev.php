@@ -30,7 +30,13 @@
                 <div class="col-lg-6">
                     <div class="content">
                         <h2>MOBILE APP DEVELOPMENT</h2>
-                        <p>Mobile App Development starts to kick off with an idea. We support the idea with our strategy, design, and development experts. Our Mobile App Development services are integrated with the latest technologies to create revolutionary services and products. Businesses today need transparent, tactful, and imperative apps. Mobile App development service connects you more broadly. It maximizes business potential incorporated with the latest programming languages. Digiziner offers premium and exclusive Mobile app development mediums to choose from.</p>
+                        <p>Mobile App Development starts to kick off with an idea. We support the idea with our
+                            strategy, design, and development experts. Our Mobile App Development services are
+                            integrated with the latest technologies to create revolutionary services and products.
+                            Businesses today need transparent, tactful, and imperative apps. Mobile App development
+                            service connects you more broadly. It maximizes business potential incorporated with the
+                            latest programming languages. Digiziner offers premium and exclusive Mobile app development
+                            mediums to choose from.</p>
                         <a href="#" data-toggle="modal" data-target="#requestModal" class="themeBtn">
                             <span>Request a Quote</span>
                             <i class="fal fa-long-arrow-right"></i>
@@ -68,21 +74,27 @@
                     <div class="box">
                         <img src="images/webapp-value1.webp" class="img-fluid" alt="">
                         <h3>Android, iOS apps</h3>
-                        <p>Android, iOS apps are direct and user-friendly, and intuitive. Digiziner offers innovatory ideas to ‘change the game’ with their distinctive business approach. Our Android and iOS apps are competent, technically sound, and ranks high on App Store.</p>
+                        <p>Android, iOS apps are direct and user-friendly, and intuitive. Digiziner offers innovatory
+                            ideas to ‘change the game’ with their distinctive business approach. Our Android and iOS
+                            apps are competent, technically sound, and ranks high on App Store.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 mt-4 mt-lg-0">
                     <div class="box">
                         <img src="images/webapp-value2.webp" class="img-fluid" alt="">
                         <h3>Progressive web apps </h3>
-                        <p>Progressive web apps at Digiziners are enhanced with capabilities, installability, and reliability and are highly accessible. This is an ultimate fusion combo for an ultimate experience for B2B needs.</p>
+                        <p>Progressive web apps at Digiziners are enhanced with capabilities, installability, and
+                            reliability and are highly accessible. This is an ultimate fusion combo for an ultimate
+                            experience for B2B needs.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 mt-4 mt-lg-0">
                     <div class="box">
                         <img src="images/webapp-value3.webp" class="img-fluid" alt="">
                         <h3>Hybrid Apps</h3>
-                        <p>Digiziner’s Hybrid Apps balances the scales of apps for its users. A careful blend of Native and Progressive apps that we offer at Digiziners. HTML, JavaScript, CSS and HTML5 are techs incorporated in mobile WebView.</p>
+                        <p>Digiziner’s Hybrid Apps balances the scales of apps for its users. A careful blend of Native
+                            and Progressive apps that we offer at Digiziners. HTML, JavaScript, CSS and HTML5 are techs
+                            incorporated in mobile WebView.</p>
                     </div>
                 </div>
             </div>
@@ -92,7 +104,7 @@
     <section class="countsSec pb-0">
         <div class="container">
             <div class="row">
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-3 col-md-6 col-6">
                     <div class="count-box">
                         <i class="far fa-smile"></i>
                         <div>
@@ -101,7 +113,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-3 col-md-6 col-6">
                     <div class="count-box">
                         <i class="fal fa-address-book" style="color: #ee6c20;"></i>
                         <div>
@@ -110,7 +122,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-3 col-md-6 col-6">
                     <div class="count-box">
                         <i class="fal fa-headphones-alt" style="color: #15be56;"></i>
                         <div>
@@ -119,7 +131,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-3 col-md-6 col-6">
                     <div class="count-box">
                         <i class="fas fa-user-friends" style="color: #bb0852;"></i>
                         <div>

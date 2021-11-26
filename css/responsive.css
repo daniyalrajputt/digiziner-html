@@ -24,11 +24,38 @@
   }
 }
 @media (max-width: 767.98px) {
+  section {
+    padding: 3rem 0;
+  }
+  .main-slider,
+  .ctaSection {
+    text-align: center;
+  }
+  .ctaSection .col-md-6.text-right {
+    text-align: center !important;
+  }
+  .main-slider .row {
+    flex-direction: column-reverse;
+  }
+  .main-slider img {
+    max-width: 350px;
+    margin-top: 3rem;
+  }
+  .main-slider.innerSlider img {
+    max-width: 100%;
+    min-height: 300px;
+    object-fit: cover;
+  }
+  .main-slider.innerSlider h2,
+  .main-slider h2 {
+    font-size: 2rem;
+  }
+
   .mainSlide {
     text-align: center;
   }
   header {
-    padding: 0.5rem 0;
+    padding: 0;
   }
   .rsrvBtn {
     justify-content: center;
@@ -43,6 +70,9 @@
   .logoCard {
     flex-direction: column;
   }
+  .countsSec .count-box {
+    justify-content: center;
+  }
   .logoCard .imgWrap,
   .logoCard .content {
     width: 100%;
@@ -56,11 +86,40 @@
   .testimonialInfo ul {
     justify-content: center;
   }
+  .contact-form {
+    margin-top: 1rem;
+  }
   .container {
     max-width: 540px;
   }
+  footer {
+    text-align: center;
+  }
+  footer .socialIo {
+    justify-content: center;
+  }
+  footer p {
+    text-align: center;
+  }
+  .navbar-collapse {
+    background-color: var(--theme-color);
+    text-align: center;
+    padding: 1rem;
+  }
+  .navbar-nav .nav-item .nav-link {
+    color: var(--white);
+  }
+  .navbar-collapse .form-inline {
+    justify-content: center;
+  }
 }
 @media (max-width: 575.98px) {
+  :root {
+    font-size: 16px;
+  }
+  .socialIo li a {
+    font-size: 1.5rem;
+  }
 }
 @media (max-width: 320.98px) {
 }
