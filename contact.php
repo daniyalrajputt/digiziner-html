@@ -35,28 +35,28 @@
 
                 <div class="col-lg-6">
                     <div class="row">
-                        <div class="col-md-6 col-6">
+                        <div class="col-md-6">
                             <div class="info-box wow fadeInUp" data-wow-delay="0.5s">
                                 <i class="fal fa-map-marker-alt"></i>
                                 <h3>Address</h3>
                                 <p>Bradford,<br>UK</p>
                             </div>
                         </div>
-                        <div class="col-md-6 col-6">
+                        <div class="col-md-6">
                             <div class="info-box top wow fadeInUp" data-wow-delay="0.6s">
                                 <i class="fal fa-phone-alt"></i>
                                 <h3>Call Us</h3>
                                 <p>+44 20 8144 0322</p>
                             </div>
                         </div>
-                        <div class="col-md-6 col-6">
+                        <div class="col-md-6">
                             <div class="info-box wow fadeInUp" data-wow-delay="0.7s">
                                 <i class="fal fa-envelope"></i>
                                 <h3>Email Us</h3>
                                 <p>info@digiziner.com<br>contact@digiziner.com</p>
                             </div>
                         </div>
-                        <div class="col-md-6 col-6">
+                        <div class="col-md-6">
                             <div class="info-box top wow fadeInUp" data-wow-delay="0.8s">
                                 <i class="fal fa-clock"></i>
                                 <h3>Open Hours</h3>

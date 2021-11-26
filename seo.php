@@ -105,7 +105,7 @@
     <section class="countsSec pb-0">
         <div class="container">
             <div class="row">
-                <div class="col-lg-3 col-md-6 col-6">
+                <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="count-box">
                         <i class="far fa-smile"></i>
                         <div>
@@ -114,7 +114,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-6">
+                <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="count-box">
                         <i class="fal fa-address-book" style="color: #ee6c20;"></i>
                         <div>
@@ -123,7 +123,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-6">
+                <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="count-box">
                         <i class="fal fa-headphones-alt" style="color: #15be56;"></i>
                         <div>
@@ -132,7 +132,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-6">
+                <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="count-box">
                         <i class="fas fa-user-friends" style="color: #bb0852;"></i>
                         <div>

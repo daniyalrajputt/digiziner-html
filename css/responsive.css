@@ -24,7 +24,8 @@
   }
 }
 @media (max-width: 767.98px) {
-  section {
+  section,
+  .aboutSec {
     padding: 3rem 0;
   }
   .main-slider,
@@ -40,6 +41,9 @@
   .main-slider img {
     max-width: 350px;
     margin-top: 3rem;
+  }
+  .main-slider.innerSlider {
+    padding: 0;
   }
   .main-slider.innerSlider img {
     max-width: 100%;
@@ -112,10 +116,62 @@
   .navbar-collapse .form-inline {
     justify-content: center;
   }
+  .aboutSec.aboutInnr .row + .row,
+  .servicesSec .row + .row {
+    margin-top: 3rem;
+  }
+  .servicesSec figure img {
+    box-shadow: 30px 30px #37bfee;
+  }
+  .servicesSec .flex-row-reverse figure img {
+    box-shadow: -30px 30px #37bfee;
+  }
+  .servicesSec {
+    text-align: center;
+    padding-bottom: 5rem;
+  }
+  .servicesSec .themeBtn {
+    margin-bottom: 1rem;
+  }
+  .servicesSec .secHeading {
+    margin-top: 1rem;
+  }
+  .servicesSec ul li {
+    text-align: left;
+  }
+  .servicesSec .service-box {
+    height: auto;
+    padding: 2rem 1.5rem;
+  }
 }
 @media (max-width: 575.98px) {
   :root {
-    font-size: 16px;
+    font-size: 12px;
+  }
+  .secHeading {
+    font-size: 2rem;
+  }
+  .ctaSection .secHeading {
+    margin-bottom: 1rem;
+  }
+  .portfolioTabs ul {
+    gap: 1rem 0.5rem;
+  }
+  .portfolioTabs .nav-item .nav-link {
+    padding: 0.5em 1em;
+    font-size: 14px;
+  }
+  .testimonials .testimonial-item {
+    margin: 0 15px;
+  }
+  .contactSec .info-box {
+    align-items: center;
+  }
+  .contactSec .info-box.top {
+    top: auto;
+  }
+  .contact-form {
+    margin-top: 2rem;
   }
   .socialIo li a {
     font-size: 1.5rem;

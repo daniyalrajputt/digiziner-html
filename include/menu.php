@@ -1,3 +1,5 @@
+<?php $activePage = basename($_SERVER['PHP_SELF'], ".php"); ?>
+<?= ($activePage == '') ? 'active' : ''; ?>
 <!-- Begin: Header -->
 <header class="wow fadeInDown" data-wow-delay="0.5s">
     <div class="topBar">
@@ -19,23 +21,20 @@
                     <a class="navbar-brand" href="index.php">
                         <img src="images/logo.webp" alt="">
                     </a>
-                    <button class="navbar-toggler" type="button" data-toggle="collapse"
-                        data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="fa fa-bars"></span>
                     </button>
 
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav ml-auto">
-                            <li class="nav-item active">
+                            <li class="nav-item <?= ($activePage == 'index') ? 'active' : ''; ?>">
                                 <a class="nav-link" href="index.php">Home</a>
                             </li>
-                            <li class="nav-item">
+                            <li class="nav-item <?= ($activePage == 'about') ? 'active' : ''; ?>">
                                 <a class="nav-link" href="about.php">About</a>
                             </li>
                             <li class="nav-item dropdown">
                                 <a class="nav-link" href="services.php">Services</a>
-
                                 <ul class="dropdownmenu">
                                     <li><a href="web-dev.php">Website Development</a></li>
                                     <li><a href="app-dev.php">Mobile App Development</a></li>
@@ -46,10 +45,13 @@
                                     <li><a href="seo.php">Inbound Marketing Or SEO</a></li>
                                 </ul>
                             </li>
-                            <li class="nav-item">
+                            <li class="nav-item <?= ($activePage == 'portfolio') ? 'active' : ''; ?>">
                                 <a class="nav-link" href="portfolio.php">Portfolio</a>
                             </li>
-                            <li class="nav-item">
+                            <li class="nav-item <?= ($activePage == 'blog') ? 'active' : ''; ?>">
+                                <a class="nav-link" href="blog.php">Blog</a>
+                            </li>
+                            <li class="nav-item <?= ($activePage == 'contact') ? 'active' : ''; ?>">
                                 <a class="nav-link" href="contact.php">Contact</a>
                             </li>
                         </ul>
